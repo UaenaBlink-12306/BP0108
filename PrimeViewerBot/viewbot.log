@@ -1,0 +1,41 @@
+2026-01-22 13:20:12,442 - INFO - Viewer 1 sent successfully.
+2026-01-22 13:20:22,786 - ERROR - Failed to send viewer 2: Message: 
+
+2026-01-22 13:20:35,393 - INFO - Viewer 2 sent successfully.
+2026-01-22 13:20:45,720 - ERROR - Failed to send viewer 3: Message: 
+
+2026-01-22 13:20:57,892 - INFO - Viewer 3 sent successfully.
+2026-01-22 13:22:31,883 - INFO - Viewer 1 sent successfully.
+2026-01-22 13:22:42,235 - ERROR - Failed to send viewer 2: Message: 
+
+2026-01-22 13:22:55,265 - INFO - Viewer 2 sent successfully.
+2026-01-22 13:23:05,617 - ERROR - Failed to send viewer 3: Message: 
+
+2026-01-22 13:23:17,660 - INFO - Viewer 3 sent successfully.
+2026-01-22 13:23:27,999 - ERROR - Failed to send viewer 4: Message: 
+
+2026-01-22 13:23:41,933 - INFO - Viewer 4 sent successfully.
+2026-01-22 13:23:52,286 - ERROR - Failed to send viewer 5: Message: 
+
+2026-01-22 13:24:06,223 - INFO - Viewer 5 sent successfully.
+2026-01-22 13:24:16,589 - ERROR - Failed to send viewer 6: Message: 
+
+2026-01-22 13:24:30,074 - INFO - Viewer 6 sent successfully.
+2026-01-22 13:24:40,146 - ERROR - Failed to send viewer 7: Message: 
+
+2026-01-22 13:24:42,563 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/259fcbe5d3edaf26ec0ceb8a559fea0d/url
+2026-01-22 13:26:03,264 - INFO - Viewer 1 sent.
+2026-01-22 13:26:12,350 - INFO - Viewer 2 sent.
+2026-01-22 13:26:21,797 - INFO - Viewer 3 sent.
+2026-01-22 13:26:30,850 - INFO - Viewer 4 sent.
+2026-01-22 13:26:38,810 - INFO - Viewer 5 sent.
+2026-01-22 13:29:19,244 - INFO - Viewer 1 sent.
+2026-01-22 13:29:28,038 - INFO - Viewer 2 sent.
+2026-01-22 13:29:36,784 - INFO - Viewer 3 sent.
+2026-01-22 13:29:45,717 - INFO - Viewer 4 sent.
+2026-01-22 13:29:54,572 - INFO - Viewer 5 sent.
+2026-01-22 13:30:03,002 - INFO - Viewer 6 sent.
+2026-01-22 13:30:11,276 - INFO - Viewer 7 sent.
+2026-01-22 13:30:20,061 - INFO - Viewer 8 sent.
+2026-01-22 13:30:28,750 - INFO - Viewer 9 sent.
+2026-01-22 13:30:37,805 - INFO - Viewer 10 sent.

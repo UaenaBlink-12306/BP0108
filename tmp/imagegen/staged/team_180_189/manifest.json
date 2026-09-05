@@ -1,0 +1,129 @@
+{
+  "range": "team_more_180 through team_more_189",
+  "workspace": "C:\\Users\\alpac\\Desktop\\BP0108",
+  "staging_dir": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189",
+  "created_on": "2026-07-06",
+  "generation_mode": "built_in_image_gen",
+  "output_format": "png",
+  "normalized_dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "scope_guard": {
+    "wrote_question_images": false,
+    "wrote_replacement_progress": false,
+    "notes": "Only staged PNGs and this manifest were written under tmp/imagegen/staged/team_180_189. Original generated images were left in C:\\Users\\alpac\\.codex\\generated_images."
+  },
+  "style_target": "Painterly cinematic cartoon/history-quiz illustration matching the detailed pre-141 replacement style; no flat geometric templates.",
+  "global_constraints": [
+    "No text",
+    "No letters",
+    "No numerals",
+    "No logos",
+    "No watermarks",
+    "No readable symbols",
+    "No labels, maps, plaques, signs, flags, banners, or readable markings"
+  ],
+  "items": [
+    {
+      "id": "team_more_180",
+      "answer": "Poland",
+      "question": "After an 1846 uprising, Austria and Russia agreed to violate the Congress of Vienna by revoking the \u201cfree city\u201d status that had been granted to this country\u2019s city of Krakow. In the 18th century, European powers thrice partitioned, for the point, what country, the former site of the Duchy of Warsaw?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_180.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_07f5f418197ad1d0016a4bdf7bbf9481918ddff2e883754e7b.png",
+      "prompt_summary": "Krakow free-city revocation and partition-era Poland scene with civilians, blank documents, and unmarked imperial envoys.",
+      "post_processing": "Center fit/crop from generated 1672x941 source to normalized 2048x1152 PNG.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_181",
+      "answer": "Squanto",
+      "question": "This man harvested fish from the muddy banks of the Eel River and explained methods of fertilizing corn and beans according to an account by William Bradford. For the point, name this Patuxet Native American who lived among the Plymouth colonists and whose agricultural prowess provided food for the first Thanksgiving.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_181.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_020e99c8d21edcac016a4be0f16c8c819191229feb050d1054.png",
+      "prompt_summary": "Squanto teaching Plymouth colonists fish-based corn and bean cultivation beside an early New England riverbank.",
+      "post_processing": "Center fit/crop from generated 1672x941 source to normalized 2048x1152 PNG.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_182",
+      "answer": "Mekong River",
+      "question": "When this river floods, low tides and flow reversals prompt it to flow into the Tonle [ton-\u00ad\u2010lay] Sap. For the point, name this river that drains into the South China Sea after forming most of Laos\u2019 western border, the longest river in Southeast Asia.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_182.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_0b8533ee89b8ec6b016a4be14202c88191aec4b9e95901f96a.png",
+      "prompt_summary": "Mekong floodplain and Tonle Sap flow reversal shown through stilt houses, boats, and swirling floodwater without map symbols.",
+      "post_processing": "Center fit/crop from generated 1672x941 source to normalized 2048x1152 PNG.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed and no map/arrow treatment observed."
+    },
+    {
+      "id": "team_more_183",
+      "answer": "oracles",
+      "question": "Gases and vapors from hot springs were used during a ritual at one of these places in which Pythia, a priestess of Apollo, would utter cryptic statements believed to predict the future. For the point, name these Greek religious sites such as Delphi.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_183.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_06097df3f6830d17016a4be1e4cc9481918f0558bad8998ba2.png",
+      "prompt_summary": "Delphi-style oracle ritual with Pythia, vapors, visitors, mountain sanctuary, and blank stonework.",
+      "post_processing": "Center fit/crop from generated 1672x941 source to normalized 2048x1152 PNG.",
+      "qa_notes": "Staged image visually checked; no readable inscriptions/text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_184",
+      "answer": "Richard \u201cDick\u201d Cheney",
+      "question": "This Wyoming politician served as defense secretary before becoming vice president under George Walker Bush. For the point, name this Republican whose surname is Cheney.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_184.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_04ccd8c8b83b5ac1016a4be2925100819192b316890dda48c7.png",
+      "prompt_summary": "Neutral Wyoming-to-Washington policy office scene for Dick Cheney with blank papers and no official seals or maps.",
+      "post_processing": "Center fit/crop from generated 1672x941 source to normalized 2048x1152 PNG.",
+      "qa_notes": "Regenerated after a globe/map appeared; final staged image visually checked with blank surfaces and no official marks observed."
+    },
+    {
+      "id": "team_more_185",
+      "answer": "Pericles",
+      "question": "This man orchestrated the growth of the Delian League as his city\u2019s empire, moving its treasury to the Parthenon. For the point, name this statesman of the Golden Age of Athens.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_185.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_0b0cc8e7ad34a804016a4be37e6c388197b9713fd1e474a59a.png",
+      "prompt_summary": "Pericles-era Athens scene with Parthenon treasury transfer, civic leaders, and plain unmarked coins/chests.",
+      "post_processing": "Center fit/crop from generated 1672x941 source to normalized 2048x1152 PNG.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_186",
+      "answer": "Oil or Petroleum",
+      "question": "This industry grew quickly in the North Sea in the 1970\u2019s a decade during which supply shocks in this industry led to economic disruptions in countries dependent on Middle Eastern sources of this commodity. For the point, name this commodity whose sources are exploited alongside natural gas deposits in the Gulf nations, such as the UAE and Saudi Arabia.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_186.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_0dd3737ac614bb8a016a4be3d48e248194843feab2028e0aaa.png",
+      "prompt_summary": "1970s North Sea petroleum scene with unbranded oil platform, workers, barrels, tanker silhouettes, and no hazard icons.",
+      "post_processing": "Center fit/crop from generated 1672x941 source to normalized 2048x1152 PNG.",
+      "qa_notes": "Staged image visually checked; no logos, hazard icons, readable text, or watermarks observed."
+    },
+    {
+      "id": "team_more_187",
+      "answer": "Bird\u2019s Nest",
+      "question": "This stadium will be the largest venue in use for the 2022 Winter Olympics, though Herzog, Meuron and Ai Weiwei originally designed it for use in the 2008 Summer Olympics. For the point, name this Beijing stadium that resembles a fowl\u2019s resting place.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_187.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_0135d155e002eb6f016a4bfb9c740881969aed3074bb0150bf.png",
+      "prompt_summary": "Beijing Bird's Nest stadium in winter, emphasizing interwoven architecture without Olympic rings, signage, or flags.",
+      "post_processing": "Center fit/crop from generated 1672x941 source to normalized 2048x1152 PNG.",
+      "qa_notes": "Staged image visually checked; no Olympic rings, flags, readable signage, logos, or watermarks observed."
+    },
+    {
+      "id": "team_more_188",
+      "answer": "Labour Party",
+      "question": "This party implemented the National Health Service and other welfare programs under the leadership of Clement Attlee, who defeated Winston Churchill in the 1945 election. For the point, name this left-\u00ad\u2010leaning political party in the United Kingdom.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_188.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_09e41aecedeeb7ee016a4bfbf9b6ac8197b8c08a250320ba52.png",
+      "prompt_summary": "Postwar British welfare and hospital reform scene under an Attlee-like statesman, avoiding campaign posters and party symbols.",
+      "post_processing": "Center fit/crop from generated 1672x941 source to normalized 2048x1152 PNG.",
+      "qa_notes": "Staged image visually checked; no party symbols, flags, campaign posters, readable text, logos, or watermarks observed."
+    },
+    {
+      "id": "team_more_189",
+      "answer": "Netherlands",
+      "question": "A colonist from this country was nicknamed \u201cPeg Leg Pete,\u201d and according to a popular legend, another colonist from this country purchased Manhattan for the equivalent of 24 dollars. Peter Minuit and Peter Stuyvesant represented, for the point, what country that controlled New York before the British?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_180_189\\team_more_189.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-1fd3-79b3-a397-05976994d0c5\\ig_08df8836ee12826a016a4bfcd7f5408193b699457b520cb10f.png",
+      "prompt_summary": "New Amsterdam harbor negotiation scene for the Netherlands with Dutch gabled houses, peg-leg colonial official, and respectful Lenape representatives.",
+      "post_processing": "Cropped top of generated 1672x941 source to remove mast-top pennants, then resized/cropped to normalized 2048x1152 PNG.",
+      "qa_notes": "Regenerated and top-cropped from the selected source to remove mast-top pennants; final staged image visually checked with no flags/readable text observed."
+    }
+  ]
+}

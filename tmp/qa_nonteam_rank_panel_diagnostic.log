@@ -1,0 +1,439 @@
+Mono path[0] = 'C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/BP0108_Data/Managed'
+Mono config path = 'C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/MonoBleedingEdge/etc'
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Initialize engine version: 2022.3.51f1c1 (e9648b0586b8)
+[Subsystems] Discovering subsystems at path C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/BP0108_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Graphics (ID=0xa7aa)
+    Vendor:   Intel
+    VRAM:     7963 MB
+    Driver:   32.0.101.7076
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.030 seconds
+- Finished resetting the current domain, in  0.007 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 2.800500 ms
+[CodexPatch] Question fit audit written to C:\Users\alpac\Desktop\BP0108\tmp\question_fit_audit.json
+[CodexPatch] Runtime patch bootstrap complete.
+[CodexPatch][Audio] Speech cache: C:\Windows\TEMP\BP0108SpeechCache\solo_33632_cc929d9e8d564e65a069c5ee0da23ef5
+[CodexPatch][Audio] Original background loop started: 16.0s stereo at 44100 Hz.
+[CodexPatch][Audio] Livestream audio ready. music=0.220 duck=0.055 tts=Unity WAV playback
+[CodexPatch][Audio] Speech preparing: category=introduction sequence=1.
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+[CodexPatch] Personal livestream backend ready (isolated round state; shared Twitch chat retained).
+[CodexPatch] Stream lobby ready.
+[CodexPatch] UX enhancement layer ready.
+[CodexPatch] Rank empty-state target: live=False root=Ranklist children=1 graphics=2 childNames=text
+[CodexPatch][Audio] Windows TTS host ready with voice Microsoft Zira Desktop.
+[CodexPatch][Audio] Speech host started synthesis for sequence 1.
+[CodexPatch][Audio] TTS playing in Unity: category=introduction duration=6.09s.
+[CodexPatch][Audio] Speech completed: category=introduction sequence=1.
+[Flow] 游戏开始，共 10 题
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+[CodexPatch] Stream lobby closed after 9.5s; round is live.
+[Questions RAW] {
+  "questions": [
+    {
+      "index": 1,
+      "id": "team_more_033",
+      "question": "Her mortuary temple at Deir el-Bahri depicts an expedition to Punt bringing back incense trees.\nFor the point, name this female ruler of Egypt's Eighteenth Dynasty.",
+      "meta": {
+        "category": "Africa",
+        "era": "01",
+        "source": "original"
+      }
+    },
+    {
+      "index": 2,
+      "id": "1464363959935515313_77767",
+      "question": "This scientist wrote the final draft of the MAUD Report and led the British team on the Manhattan Project.\nThe experiment in which alpha particles produced no charge when passing through beryllium foil and paraffin wax was conducted by, for the point, what physicist who discovered the neutron?",
+      "meta": {
+        "category": "Europe",
+        "era": "06",
+        "source": "original"
+      }
+    },
+    {
+      "index": 3,
+      "id": "8661966849249711910_77768",
+      "question": "This person's demise was depicted in a 2008 film after Jane Parker claims that this woman was having an incestuous affair with her brother, George.\nFor the point, who was the second wife of King Henry VIII , ultimately beheaded on charges of adultery and treason?",
+      "meta": {
+        "category": "Europe",
+        "era": "04",
+        "source": "original"
+      }
+    },
+    {
+      "index": 4,
+      "id": "211994103458782825_77768",
+      "question": "A resident of one of these places wrote a letter to the son of the Marquess of Queensbury and a poem that notes, \"Each man kills the thing he loves.\n\" For the point, name these locations about which Oscar Wilde wrote while facing punishment for homosexuality.",
+      "meta": {
+        "category": "Europe",
+        "era": "05",
+        "source": "original"
+      }
+    },
+    {
+      "index": 5,
+      "id": "nonteam_more_009",
+      "question": "Its road system and quipu recordkeeping helped govern territory from the Andes to the Pacific coast.\nFor the point, name this South American empire with capital at Cuzco.",
+      "meta": {
+        "category": "Latin America",
+        "era": "04",
+        "source": "original"
+      }
+    },
+    {
+      "index": 6,
+      "id": "team_more_006",
+      "question": "Its navy fought at Lepanto, and its final sultanate ended after World War One.\nFor the point, name this empire centered on Istanbul.",
+      "meta": {
+        "category": "Middle East",
+        "era": "04",
+        "source": "original"
+      }
+    },
+    {
+      "index": 7,
+      "id": "nonteam_more_018",
+      "question": "It was founded after the Mongol Yuan dynasty was overthrown by Zhu Yuanzhang.\nFor the point, name this Chinese dynasty that preceded the Qing.",
+      "meta": {
+        "category": "East Asia",
+        "era": "04",
+        "source": "original"
+      }
+    },
+    {
+      "index": 8,
+      "id": "7189817323075011549_77766",
+      "question": "This man described the uncertainty of ongoing battles as the \"Fog of War,\" and he said, \"War was the Continuation of Politics by another means.\n\" For the point, name this 19th century German military theorist who wrote On War.",
+      "meta": {
+        "category": "Europe",
+        "era": "05",
+        "source": "original"
+      }
+    },
+    {
+      "index": 9,
+      "id": "team_more_070",
+      "question": "It ended centuries of Muslim rule in parts of the Iberian Peninsula.\nFor the point, name this Christian reconquest of Spain and Portugal.",
+      "meta": {
+        "category": "Europe",
+        "era": "03",
+        "source": "original"
+      }
+    },
+    {
+      "index": 10,
+      "id": "team_more_071",
+      "question": "He is often called the Liberator for leading independence movements in northern South America.\nFor the point, name this Venezuelan revolutionary.",
+      "meta": {
+        "category": "Latin America",
+        "era": "05",
+        "source": "original"
+      }
+    }
+  ]
+}
+[Flow] 第 1 题超时，无人答对
+[Flow] 进入第 2 题
+[Flow] 第 2 题超时，无人答对
+[Flow] 进入第 3 题
+关闭WebSocket时出错：The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived, CloseSent'
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 17075 frames, [1.0 KB-2.0 KB]: 2283 frames, [2.0 KB-4.0 KB]: 304 frames, [4.0 KB-8.0 KB]: 2 frames, [8.0 KB-16.0 KB]: 5 frames, [16.0 KB-32.0 KB]: 34 frames, [32.0 KB-64.0 KB]: 1746 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 2 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 4 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.0 MB
+      Overflow Count 8
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 264 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 41.1 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 12.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 8
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 1.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 29.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 1.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_CloudJob.Worker 0] x 2
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 121
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 21458 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 35.5 MB
+      Peak Large allocation bytes 8.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 21458 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 21.2 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 331 frames, [16.0 MB-32.0 MB]: 20296 frames, [32.0 MB-64.0 MB]: 831 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 37.5 MB
+      Peak Large allocation bytes 27.0 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [16.0 KB-32.0 KB]: 21458 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 20.8 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 21458 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.9 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [128.0 KB-256.0 KB]: 21457 frames, [256.0 KB-0.5 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 418.7 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [8.0 KB-16.0 KB]: 21458 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 11.2 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 21458 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.9 KB
+      Peak Large allocation bytes 0 B

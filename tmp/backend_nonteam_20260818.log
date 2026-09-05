@@ -1,0 +1,23 @@
+Mono path[0] = 'C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/BP0108_Data/Managed'
+Mono config path = 'C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/MonoBleedingEdge/etc'
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Initialize engine version: 2022.3.51f1c1 (e9648b0586b8)
+[Subsystems] Discovering subsystems at path C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/BP0108_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Graphics (ID=0xa7aa)
+    Vendor:   Intel
+    VRAM:     7963 MB
+    Driver:   32.0.101.7076
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.090 seconds
+- Finished resetting the current domain, in  0.012 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 31.990900 ms
+[CodexPatch] Question fit audit written to C:\Users\alpac\Desktop\BP0108\tmp\question_fit_audit.json
+[CodexPatch] Runtime patch bootstrap complete.

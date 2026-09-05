@@ -1,0 +1,722 @@
+[
+  {
+    "path": "UI/CLOSE",
+    "name": "CLOSE",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 203
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 122
+      }
+    ]
+  },
+  {
+    "path": "UI/CLOSE/CLOSE (1)",
+    "name": "CLOSE (1)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 180
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 104
+      }
+    ]
+  },
+  {
+    "path": "UI/center",
+    "name": "center",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 189
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Image",
+    "name": "Image",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 185
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 109
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist",
+    "name": "Ranklist",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 187
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 111
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/text",
+    "name": "text",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 176
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 100
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab",
+    "name": "Leaderboard Member Prefab",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 222
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 147
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (1)",
+    "name": "Leaderboard Member Prefab (1)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 253
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 154
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (1)/Color",
+    "name": "Color",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 243
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 159
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (1)/Name",
+    "name": "Name",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 235
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 146
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (1)/Score",
+    "name": "Score",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 230
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 173
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (2)",
+    "name": "Leaderboard Member Prefab (2)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 255
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 150
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (2)/Color",
+    "name": "Color",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 244
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 163
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (2)/Name",
+    "name": "Name",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 240
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 141
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (2)/Score",
+    "name": "Score",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 225
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 168
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (3)",
+    "name": "Leaderboard Member Prefab (3)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 256
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 151
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (3)/Color",
+    "name": "Color",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 246
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 162
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (3)/Name",
+    "name": "Name",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 238
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 143
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (3)/Score",
+    "name": "Score",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 227
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 170
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (4)",
+    "name": "Leaderboard Member Prefab (4)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 254
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 149
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (4)/Color",
+    "name": "Color",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 245
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 164
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (4)/Name",
+    "name": "Name",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 239
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 142
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (4)/Score",
+    "name": "Score",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 226
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 169
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (5)",
+    "name": "Leaderboard Member Prefab (5)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 250
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 155
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (5)/Color",
+    "name": "Color",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 247
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 157
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (5)/Name",
+    "name": "Name",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 234
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 140
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (5)/Score",
+    "name": "Score",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 232
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 167
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (6)",
+    "name": "Leaderboard Member Prefab (6)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 252
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 152
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (6)/Color",
+    "name": "Color",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 241
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 160
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (6)/Name",
+    "name": "Name",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 237
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 145
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (6)/Score",
+    "name": "Score",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 229
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 172
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (7)",
+    "name": "Leaderboard Member Prefab (7)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 251
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 153
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (7)/Color",
+    "name": "Color",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 242
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 161
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (7)/Name",
+    "name": "Name",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 236
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 144
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (7)/Score",
+    "name": "Score",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 228
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 171
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (8)",
+    "name": "Leaderboard Member Prefab (8)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 249
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 156
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (8)/Color",
+    "name": "Color",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 248
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 158
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (8)/Name",
+    "name": "Name",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 233
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 139
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab (8)/Score",
+    "name": "Score",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 231
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 166
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab/Color",
+    "name": "Color",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 223
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 148
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab/Name",
+    "name": "Name",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 221
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 165
+      }
+    ]
+  },
+  {
+    "path": "UI/center/Ranklist/Leaderboard Member Prefab/Score",
+    "name": "Score",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 224
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 138
+      }
+    ]
+  },
+  {
+    "path": "UI/center/avatar",
+    "name": "avatar",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 199
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 120
+      },
+      {
+        "type": "Animator",
+        "path_id": 95
+      }
+    ]
+  },
+  {
+    "path": "UI/down",
+    "name": "down",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 201
+      }
+    ]
+  },
+  {
+    "path": "UI/down/Dialogue",
+    "name": "Dialogue",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 197
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 118
+      }
+    ]
+  },
+  {
+    "path": "UI/down/Question Count",
+    "name": "Question Count",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 177
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 101
+      }
+    ]
+  },
+  {
+    "path": "UI/up",
+    "name": "up",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 205
+      }
+    ]
+  },
+  {
+    "path": "UI/up/Blood_Blue",
+    "name": "Blood_Blue",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 181
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 105
+      }
+    ]
+  },
+  {
+    "path": "UI/up/Blood_Blue/value",
+    "name": "value",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 218
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 135
+      }
+    ]
+  },
+  {
+    "path": "UI/up/Blood_Red",
+    "name": "Blood_Red",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 210
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 128
+      }
+    ]
+  },
+  {
+    "path": "UI/up/ROUND",
+    "name": "ROUND",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 220
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 137
+      }
+    ]
+  },
+  {
+    "path": "UI/up/Text (Legacy)",
+    "name": "Text (Legacy)",
+    "components": [
+      {
+        "type": "RectTransform",
+        "path_id": 188
+      },
+      {
+        "type": "CanvasRenderer",
+        "path_id": 112
+      }
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "range": "team_more_190 through team_more_199",
+  "workspace": "C:\\Users\\alpac\\Desktop\\BP0108",
+  "staging_dir": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199",
+  "created_on": "2026-07-06",
+  "generation_mode": "built_in_image_gen",
+  "output_format": "png",
+  "normalized_dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "scope_guard": {
+    "wrote_question_images": false,
+    "wrote_replacement_progress": false,
+    "notes": "Only staged PNGs and this manifest were written under tmp/imagegen/staged/team_190_199."
+  },
+  "style_target": "Painterly cinematic cartoon/history-quiz illustration matching the detailed pre-141 replacement style; no flat geometric templates.",
+  "global_constraints": [
+    "No text",
+    "No letters",
+    "No numerals",
+    "No logos",
+    "No watermarks",
+    "No readable symbols",
+    "No labels, maps, plaques, signs, flags, banners, or readable markings"
+  ],
+  "items": [
+    {
+      "id": "team_more_190",
+      "answer": "Mary Stuart",
+      "question": "This woman was executed after the discovery of the Babington Plot, which aimed to install her as the Catholic ruler of England. For the point, name this cousin and rival of Elizabeth I, the mother of James VI of Scotland.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_190.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_044a5b4709c4cda3016a4bdf6fa32c81949e7498de155c67b9.png",
+      "prompt_summary": "16th-century Scottish-English royal chamber with Mary Stuart, courtiers, guards, blank papers, candlelight, and a respectful confinement/intrigue mood rather than an execution scene.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_191",
+      "answer": "Johann Sebastian Bach",
+      "question": "This composer's Musical Offering was based on a melody given to him by Frederick the Great. Felix Mendelssohn revived the music of, for the point, what Baroque composer of the Brandenburg Concertos?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_191.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_017e5541e555bc74016a4be0527e3c81938a9fca44772c8b8a.png",
+      "prompt_summary": "Baroque music-room scene with Bach at a keyboard, organ pipes, chamber musicians, blank parchment, and a patron listening; regenerated to avoid medals and crests.",
+      "qa_notes": "Staged image visually checked; no readable sheet music, text, logos, or watermarks observed."
+    },
+    {
+      "id": "team_more_192",
+      "answer": "Russo-Japanese War",
+      "question": "Theodore Roosevelt won the Nobel Peace Prize for negotiating an end to this war in the Treaty of Portsmouth. The Baltic fleet was crushed at the Battle of Tsushima in, for the point, what war fought between a European and an Asian power in the early 20th century?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_192.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_07b0099655428b4e016a4be11bcb848196a18fe6800eac2761.png",
+      "prompt_summary": "Early-1900s Treaty of Portsmouth negotiation with mediator, Japanese and Russian delegations, blank papers, and distant flagless warship silhouettes; regenerated to remove maps and flags.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_193",
+      "answer": "Prime Minister of Australia",
+      "question": "The only woman to ever hold this position was Julia Gillard of the Labor Party. For the point, name this political post currently held by Malcolm Turnbull, who leads the government in Canberra.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_193.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_03844eb8196cffbc016a4be2253ecc81958e2c566c1d511909.png",
+      "prompt_summary": "Modern Canberra parliamentary chamber with a generic Australian government leader, ministers, blank papers, and Parliament House architecture; regenerated to remove ceremonial parliamentary objects.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_194",
+      "answer": "A Christmas Carol",
+      "question": "This novel's protagonist meets ghosts representing the present, past, and future, who inspire him to help Bob Cratchit and Tiny Tim. For the point, name this novel by Charles Dickens in which Ebenezer Scrooge discovers the true meaning of Christmas.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_194.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_04354725bfa33bda016a4be279b99081979108833c2e47f2b1.png",
+      "prompt_summary": "Victorian winter interior with Scrooge, three gentle ghostly figures, the Cratchit-family vision, blank papers, candlelight, and no book titles or shop signs.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_195",
+      "answer": "Alexandria",
+      "question": "One of the Seven Wonders of the World was located on the small island of Pharos near this city. Euclid studied in, for the point, what Egyptian city, the home of a famous Lighthouse and a library that suffered several devastating fires?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_195.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_0fd9ce6529ceed7c016a4be2cea8e08196937229248d59df4e.png",
+      "prompt_summary": "Ancient Alexandria harbor with Pharos lighthouse, library courtyard, scholars, blank scrolls, plain sails, and no fire/destruction scene.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_196",
+      "answer": "masks",
+      "question": "The heads of 2 nude women are thought to be representations of these objects from Africa in Picasso's painting, Les Desmoiselles d'Avignon. For the point, name these objects used in ritual dance traditions in Africa and to cover the faces of ancient Greek actors.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_196.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_0d46e130ef3fa84e016a4be328c10081939f3e2327a62a5cc4.png",
+      "prompt_summary": "Respectful educational courtyard bridging African mask artisans/dancers and ancient Greek theater performers, with fully clothed figures and masks as central objects.",
+      "qa_notes": "Staged image visually checked; no nudity, readable text, logos, or watermarks observed."
+    },
+    {
+      "id": "team_more_197",
+      "answer": "Iran",
+      "question": "This country's capital was moved to Isfahan by Abbas the Great, the fifth Shah of a dynasty that installed Twelver Shia Islam as this country's official religion. The Safavid Dynasty ruled, for the point, what Middle Eastern country that moved its capital in 1796 to Tehran?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_197.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_048e6037116e29c2016a4be3d0036c8195b57adfa19212494c.png",
+      "prompt_summary": "Safavid-era Isfahan palace-and-garden planning scene with shah-like ruler, architects, blank plans, city model, bridge, and geometric tilework; regenerated to reduce religious/script cues.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_198",
+      "answer": "(hyper)inflation",
+      "question": "Eviction of white farmers by Robert Mugabe's government contributed to a major instance of this phenomenon in 1990s Zimbabwe that resulted in the creation of 100-billion-dollar bank notes. For the point, name this phenomenon in which currency is devalued and prices rise.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_198.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_0c2dd56d0df2bff9016a4bfba50534819583998ea97c126e0d.png",
+      "prompt_summary": "Respectful late-20th-century Zimbabwean market scene with worried shoppers, sparse goods, and large stacks of blank banknotes; no politicians, eviction, numbers, or readable currency.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_199",
+      "answer": "cattle industry",
+      "question": "Railroad facilities were built for use in this industry in Abilene and Kansas City, which shipped cargo to stockyards in Chicago. The development of barbed wire ended the era of massive drives in, for the point, what industry consisting of western ranches?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_190_199\\team_more_199.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f385e-db53-72e0-a33b-51a3d60b983f\\ig_021626a03d71055f016a4bfc48e10c81909be0381fbe3f4b16.png",
+      "prompt_summary": "Late-19th-century western cattle drive at a railhead with stock pens, herd, cowhands, barbed wire, and plain unmarked train cars; regenerated to avoid locomotive markings.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    }
+  ]
+}

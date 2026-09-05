@@ -1,0 +1,35 @@
+Mono path[0] = 'C:/Users/alpac/Desktop/BP0108/BP0108/BP0108_Data/Managed'
+Mono config path = 'C:/Users/alpac/Desktop/BP0108/BP0108/MonoBleedingEdge/etc'
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Initialize engine version: 2022.3.51f1c1 (e9648b0586b8)
+[Subsystems] Discovering subsystems at path C:/Users/alpac/Desktop/BP0108/BP0108/BP0108_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.419 seconds
+- Finished resetting the current domain, in  0.003 seconds
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.823600 ms
+[CodexPatch] Question fit audit written to C:\Users\alpac\Desktop\BP0108\tmp\question_fit_audit.json
+[CodexPatch] Runtime patch bootstrap complete.
+null
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+http://43.112.125.110:3000/game/start报错:{"error":"Game already active","code":"GAME_ACTIVE"}
+null
+[Flow] 游戏已结束
+null
+[Flow] 游戏开始，共 10 题
+http://43.112.125.110:3000/game/leaderboard
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+http://43.112.125.110:3000/game/questions
+http://43.112.125.110:3000/game/teams
+http://43.112.125.110:3000/game/leaderboard

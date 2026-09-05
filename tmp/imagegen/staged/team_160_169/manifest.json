@@ -1,0 +1,119 @@
+{
+  "range": "team_more_160 through team_more_169",
+  "workspace": "C:\\Users\\alpac\\Desktop\\BP0108",
+  "staging_dir": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169",
+  "created_on": "2026-07-06",
+  "generation_mode": "built_in_image_gen",
+  "output_format": "png",
+  "normalized_dimensions": {
+    "width": 2048,
+    "height": 1152
+  },
+  "scope_guard": {
+    "wrote_question_images": false,
+    "wrote_replacement_progress": false,
+    "notes": "Only staged PNGs and this manifest were written under tmp/imagegen/staged/team_160_169."
+  },
+  "style_target": "Painterly cinematic cartoon/history-quiz illustration matching the detailed pre-141 replacement style; no flat geometric templates.",
+  "global_constraints": [
+    "No text",
+    "No letters",
+    "No numerals",
+    "No logos",
+    "No watermarks",
+    "No readable symbols",
+    "No labels, maps, plaques, signs, flags, banners, or readable markings"
+  ],
+  "items": [
+    {
+      "id": "team_more_160",
+      "answer": "Incan Empire",
+      "question": "Manco Yupanqui founded a breakaway state of this empire in Vilcabamba five years after a civil war in this empire ended in the defeat of a half-brother of Huascar, Atahualpa. The siege of Cuzco was fought by, for the point, what Peruvian empire that was conquered by the Spanish under Francisco Pizarro?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_160.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_03da670f2b58d75c016a4bd2f4e8c88193a0ef6b901992c981.png",
+      "prompt_summary": "16th-century Andean Cuzco/Inca scene with terraced mountains, stone fortress, Inca nobles, llamas, and distant approaching riders; respectful nonviolent treatment.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_161",
+      "answer": "Hong Kong",
+      "question": "The Bank of China Building by I. M. Pei stands in this place's Central district. Reclamation has reduced Victoria Harbor in, for the point, what former British colony returned to China in 1997?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_161.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_039d5951a5f40662016a4bda0950848193be76c4bb839160ff.png",
+      "prompt_summary": "Victoria Harbor and Central district skyline with Bank of China tower silhouette, ferries, hills, and reclamation work; sign-free city surfaces.",
+      "qa_notes": "Regenerated after earlier skyline versions showed sign-like marks; final staged image visually checked as sign-free at handoff size."
+    },
+    {
+      "id": "team_more_162",
+      "answer": "ballet",
+      "question": "Tchaikovsky created a popular type of this work which features characters such as the Mouse King and Clara, and is often performed in December. For the point, name this type of artistic performance, of which Swan Lake and The Nutcracker are famous example.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_162.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_02c43775bc40e3fa016a4bd515c0e8819682a710fdea124250.png",
+      "prompt_summary": "19th-century theater ballet performance inspired by The Nutcracker and Swan Lake, with dancers, stage lights, winter set, and no written playbills or music.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_163",
+      "answer": "Pablo Emilio Escobar Gaviria",
+      "question": "After escaping his private prison La Catedral, this man was hunted down by the Search Bloc and died in a 1993 shootout. For the point, name this Colombian drug lord, the leader of the Medellin Cartel.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_163.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_06838ebb2b30f933016a4bd57160448195a1850124c8a2a4bd.png",
+      "prompt_summary": "Sober early-1990s Medellin rooftop/search scene with hillside city, searchlights, and unmarked investigators; no drugs, gore, or glamorization.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_164",
+      "answer": "Chesapeake Bay",
+      "question": "A vital population of blue crabs lives in this bay, which is fed by the Susquehanna and Potomac Rivers. For the point, name this large bay that borders Delaware, Maryland, and Virginia.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_164.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_05ea03640d584a9b016a4bd5eab9f48194898a9dbe90a57cdc.png",
+      "prompt_summary": "Wide estuary/marsh scene with blue crabs, oyster baskets, skiff, birds, broad bay water, river mouths, and no maps or boat names.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_165",
+      "answer": "cotton",
+      "question": "This commodity names the type of diplomacy used by the Confederacy to appeal to European powers during the Civil War, and it was nicknamed \"King\" due to its importance to the American south. For the point, name this textile crop that is processed by an Eli Whitney-invented \"gin.\".",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_165.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_054de614a00d6b3d016a4bd651c2bc819c81945f83867aa8c8.png",
+      "prompt_summary": "19th-century cotton field and cotton gin workshop at sunset, with crop, textile processing, and no Confederate symbols or written labels.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_166",
+      "answer": "Romania",
+      "question": "For the point, name this country where dictator Nicolae Ceausescu ruled from Bucharest. For the point, name Romania.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_166.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_09ce9bc35694b627016a4bd6b1427481a0862150cd8f4943ec.png",
+      "prompt_summary": "Late-20th-century Bucharest public square with monumental communist-era architecture, winter atmosphere, citizens, and no flags or banners.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_167",
+      "answer": "logic",
+      "question": "Aristotle's Organon was used by medieval theologians working in this field, which was combined with grammar and rhetoric in the standard trivium. For the point, name this branch of philosophy that studies reasoning.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_167.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_056e5039f58f5014016a4bd719d33481a3927ad95fecea5727.png",
+      "prompt_summary": "Medieval monastic classroom with scholars, blank parchment, abacus-like counters, and abstract reasoning objects instead of written formulas.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    },
+    {
+      "id": "team_more_168",
+      "answer": "Crimean Peninsula",
+      "question": "In this region, Lord Raglan made his name launching a courageous assault upon a Russian battery during the siege of Sevastopol. The Charge of the Light Brigade took place on, for the point, what Russian peninsula in the Black Sea, the subject of an 1850s war?",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_168.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_05e8ee9180b5a67d016a4bd8129524819cb12e29adeb05f1a2.png",
+      "prompt_summary": "1850s Black Sea/Sevastopol landscape with respectful distant cavalry charge, coastal terrain, smoke, and plain unmarked uniforms/equipment.",
+      "qa_notes": "Regenerated after earlier version showed crest-like saddle decoration; final staged image visually checked with plain tack and no readable markings."
+    },
+    {
+      "id": "team_more_169",
+      "answer": "Republic of Singapore",
+      "question": "This country holds the distinction of being the only one to unwillingly gain its independence; its first prime minister, Lee Kuan Yew, cried on television after this country was expelled from Malaysia. For the point, name this city-state on the southern tip of the Malay Peninsula.",
+      "output": "C:\\Users\\alpac\\Desktop\\BP0108\\tmp\\imagegen\\staged\\team_160_169\\team_more_169.png",
+      "source_generated_image": "C:\\Users\\alpac\\.codex\\generated_images\\019f382d-f2b4-7ac3-92e8-2b3adbd6fe3e\\ig_041dd9b4fa5484aa016a4bd8ca9c64819780c6d7dd1926ab8e.png",
+      "prompt_summary": "1965 Singapore television-studio independence scene with emotional statesman, blank TV equipment, harbor/city-state background, and no flags or screen text.",
+      "qa_notes": "Staged image visually checked; no readable text/logos/watermarks observed."
+    }
+  ]
+}

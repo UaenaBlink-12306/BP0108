@@ -1,0 +1,441 @@
+Mono path[0] = 'C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/BP0108_Data/Managed'
+Mono config path = 'C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/MonoBleedingEdge/etc'
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Initialize engine version: 2022.3.51f1c1 (e9648b0586b8)
+[Subsystems] Discovering subsystems at path C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/BP0108_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Graphics (ID=0xa7aa)
+    Vendor:   Intel
+    VRAM:     7963 MB
+    Driver:   32.0.101.7076
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.678 seconds
+- Finished resetting the current domain, in  0.007 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 2.324200 ms
+[CodexPatch] Question fit audit written to C:\Users\alpac\Desktop\BP0108\tmp\question_fit_audit.json
+[CodexPatch] Runtime patch bootstrap complete.
+[CodexPatch][Audio] Speech cache: C:\Windows\TEMP\BP0108SpeechCache\solo_4456_ee5ce12cf1414fa49dbb135d7f816de9
+[CodexPatch][Audio] Original background loop started: 16.0s stereo at 44100 Hz.
+[CodexPatch][Audio] Livestream audio ready. music=0.220 duck=0.055 tts=Unity WAV playback
+[CodexPatch][Audio] Speech preparing: category=introduction sequence=1.
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+[CodexPatch] Danmaku top layer active: sortingOrder=32767
+[CodexPatch] Personal livestream backend ready (isolated round state; shared Twitch chat retained).
+[CodexPatch] Stream lobby ready.
+[CodexPatch] UX enhancement layer ready.
+[CodexPatch] Rank empty-state target: live=False root=Ranklist children=1 graphics=0 childNames=
+[CodexPatch] Rank-area graphics: Text path=CodexGameUxCanvas/UxRoot/PersonalRankHeader rect=2440,1353,320,48 enabled=True color=RGBA(0.078, 0.286, 0.424, 1.000) || Image path=CodexGameUxCanvas/UxRoot/PersonalRankHeaderCover rect=2425,1336,350,82 enabled=True color=RGBA(1.000, 1.000, 1.000, 1.000) || Text path=CodexGameUxCanvas/UxRoot/LeaderboardEmpty rect=2460,1183,280,92 enabled=True color=RGBA(0.078, 0.286, 0.424, 1.000) || Text path=CodexGameUxCanvas/UxRoot/BlueTeamLabel rect=2048,1557,540,42 enabled=False color=RGBA(0.306, 0.824, 1.000, 1.000) || Text path=CodexStreamLobbyCanvas/StreamLobbyRoot/ViewersCard/ViewerNote rect=2004,1319,700,52 enabled=True color=RGBA(0.753, 0.855, 0.933, 1.000) || Text path=CodexStreamLobbyCanvas/StreamLobbyRoot/ViewersCard/ViewerHeader rect=2004,1373,700,46 enabled=True color=RGBA(1.000, 0.761, 0.306, 1.000) || Text path=CodexStreamLobbyCanvas/StreamLobbyRoot/LobbyStatus/LobbyStatusText rect=2550,1529,226,44 enabled=True color=RGBA(1.000, 1.000, 1.000, 1.000) || Image path=CodexStreamLobbyCanvas/StreamLobbyRoot/LobbyStatus rect=2538,1525,250,52 enabled=True color=RGBA(0.059, 0.357, 0.467, 1.000) || Text path=UI/center/Ranklist/text rect=2234,1040,414,95 enabled=False color=RGBA(0.196, 0.196, 0.196, 1.000) || Image path=UI/up/Blood_Blue rect=2013,1457,750,59 enabled=False color=RGBA(0.615, 0.615, 0.615, 1.000) || Image path=TestCanvas/结束游戏 rect=2585,75,275,81 enabled=True color=RGBA(1.000, 1.000, 1.000, 1.000) || Text path=TestCanvas/获取队伍成员/Text (Legacy) rect=2070,75,432,81 enabled=True color=RGBA(0.196, 0.196, 0.196, 1.000) || Text path=TestCanvas/结束游戏/Text (Legacy) rect=2507,75,432,81 enabled=True color=RGBA(0.196, 0.196, 0.196, 1.000) || Image path=TestCanvas/获取队伍成员 rect=2070,75,432,81 enabled=True color=RGBA(1.000, 1.000, 1.000, 1.000)
+[CodexPatch] Rank-area canvas renderers: path=CodexGameUxCanvas/UxRoot/PersonalRankHeader rect=2440,1353,320,48 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Text || path=CodexGameUxCanvas/UxRoot/PersonalRankHeaderCover rect=2425,1336,350,82 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Image || path=CodexGameUxCanvas/UxRoot/LeaderboardEmpty rect=2460,1183,280,92 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Text || path=CodexGameUxCanvas/UxRoot/BlueTeamLabel rect=2048,1557,540,42 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Text || path=CodexStreamLobbyCanvas/StreamLobbyRoot/ViewersCard/ViewerNote rect=2004,1319,700,52 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Text || path=CodexStreamLobbyCanvas/StreamLobbyRoot/ViewersCard/ViewerHeader rect=2004,1373,700,46 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Text || path=CodexStreamLobbyCanvas/StreamLobbyRoot/LobbyStatus/LobbyStatusText rect=2550,1529,226,44 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Text || path=CodexStreamLobbyCanvas/StreamLobbyRoot/LobbyStatus rect=2538,1525,250,52 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Image || path=UI/center/Ranklist/text rect=2234,1040,414,95 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Text || path=UI/up/Blood_Blue rect=2013,1457,750,59 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Image || path=TestCanvas/结束游戏 rect=2585,75,275,81 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Image || path=TestCanvas/获取队伍成员/Text (Legacy) rect=2070,75,432,81 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Text || path=TestCanvas/结束游戏/Text (Legacy) rect=2507,75,432,81 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Text || path=TestCanvas/获取队伍成员 rect=2070,75,432,81 color=RGBA(1.000, 1.000, 1.000, 1.000) graphic=Image
+[CodexPatch] Rank-area rect roots: path=CodexGameUxCanvas/UxRoot/LeaderboardEmptyPanel rect=2234,496,457,639 active=True children=0 components=RectTransform,CanvasRenderer,Image,Outline || path=CodexStreamLobbyCanvas/StreamLobbyRoot/ViewersCard/ViewerViewport/ViewerContent/ViewerList rect=2022,879,702,410 active=True children=0 components=RectTransform,CanvasRenderer,Text,Shadow,ContentSizeFitter || path=CodexStreamLobbyCanvas/StreamLobbyRoot/ViewersCard/ViewerViewport/ViewerContent rect=2004,861,738,446 active=True children=1 components=RectTransform || path=CodexStreamLobbyCanvas/StreamLobbyRoot/ViewersCard/ViewerViewport rect=2004,861,738,446 active=True children=1 components=RectTransform,CanvasRenderer,Image,Mask || path=CodexStreamLobbyCanvas/StreamLobbyRoot/ViewersCard rect=1970,797,806,650 active=True children=3 components=RectTransform,CanvasRenderer,Image,Outline,Shadow,ScrollRect || path=UI/center/Ranklist rect=2234,496,457,639 active=False children=1 components=RectTransform,CanvasRenderer,Image,VerticalLayoutGroup
+[CodexPatch][Audio] Windows TTS host ready with voice Microsoft Zira Desktop.
+[CodexPatch][Audio] Speech host started synthesis for sequence 1.
+[CodexPatch][Audio] TTS playing in Unity: category=introduction duration=6.09s.
+[CodexPatch][Audio] Speech completed: category=introduction sequence=1.
+[Flow] 游戏开始，共 10 题
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+[CodexPatch] Stream lobby closed after 9.5s; round is live.
+[Questions RAW] {
+  "questions": [
+    {
+      "index": 1,
+      "id": "8016295250252517441_77765",
+      "question": "Following Hitler's suicide, this admiral served for nearly a month as president of Germany in a government with Chancellor Goebbels .\nThe creator of the \"wolfpack\" tactics used by U-Boats, for the point, who was this Nazi admiral, the Supreme Commander of the German Navy during World War Two?",
+      "meta": {
+        "category": "Europe",
+        "era": "06",
+        "source": "original"
+      }
+    },
+    {
+      "index": 2,
+      "id": "3899048680142491945_77766",
+      "question": "The Red Fort was the imperial residence for rulers of this empire that was established after victory at the First Battle of Panipat.\nFor the point, identify this Indian empire founded by Babur and once ruled by Akbar the Great.",
+      "meta": {
+        "category": "South Asia",
+        "era": "04",
+        "source": "original"
+      }
+    },
+    {
+      "index": 3,
+      "id": "4124515485880797130_77766",
+      "question": "\" For several years, this illegitimate daughter of Lord Byron corresponded with Charles Babbage and helped him refine his invention, which was then known as a \"difference engine.\n\" For the point, name this woman, arguably the first computer programmer.",
+      "meta": {
+        "category": "Europe",
+        "era": "05",
+        "source": "original"
+      }
+    },
+    {
+      "index": 4,
+      "id": "nonteam_more_023",
+      "question": "Hiram Bingham brought international attention to it after reaching its terraces in 1911.\nFor the point, name this Inca citadel high in the Andes.",
+      "meta": {
+        "category": "Latin America",
+        "era": "04",
+        "source": "original"
+      }
+    },
+    {
+      "index": 5,
+      "id": "nonteam_more_041",
+      "question": "She was later captured, tried for heresy, and burned at Rouen before being canonized centuries later.\nFor the point, name this French saint nicknamed the Maid of Orleans.",
+      "meta": {
+        "category": "Europe",
+        "era": "03",
+        "source": "original"
+      }
+    },
+    {
+      "index": 6,
+      "id": "team_more_049",
+      "question": "Its Templo Mayor stood near markets and palaces before Spanish forces destroyed it in 1521.\nFor the point, name this Aztec capital later replaced by Mexico City.",
+      "meta": {
+        "category": "Latin America",
+        "era": "04",
+        "source": "original"
+      }
+    },
+    {
+      "index": 7,
+      "id": "team_more_080",
+      "question": "Marco Polo claimed to have visited its court at Dadu.\nFor the point, name this Mongol-led dynasty of China.",
+      "meta": {
+        "category": "East Asia",
+        "era": "03",
+        "source": "original"
+      }
+    },
+    {
+      "index": 8,
+      "id": "2582061108731926815_77766",
+      "question": "This man authorized the use of toxic gas during the Battle of Wuhan and cited the Five Charter Oath while denouncing his divinity in the Humanity Declaration.\nPrime Minister Hideki Tojo served, for the point, what emperor who delivered the Jewel Voice Broadcast and led Japan during World War Two?",
+      "meta": {
+        "category": "East Asia",
+        "era": "06",
+        "source": "original"
+      }
+    },
+    {
+      "index": 9,
+      "id": "nonteam_more_066",
+      "question": "It ended in 1945 after Germany surrendered and atomic bombs were dropped on Japan.\nFor the point, name this global conflict between the Allies and Axis.",
+      "meta": {
+        "category": "World",
+        "era": "06",
+        "source": "original"
+      }
+    },
+    {
+      "index": 10,
+      "id": "nonteam_more_014",
+      "question": "It defeated a British force at Isandlwana before losing later in 1879.\nFor the point, name this southern African kingdom.",
+      "meta": {
+        "category": "Africa",
+        "era": "05",
+        "source": "original"
+      }
+    }
+  ]
+}
+[CodexPatch] UX enhancement update failed: 
+[CodexPatch] UX enhancement update failed: 
+关闭WebSocket时出错：The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived, CloseSent'
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 5471 frames, [1.0 KB-2.0 KB]: 536 frames, [2.0 KB-4.0 KB]: 252 frames, [4.0 KB-8.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 4 frames, [16.0 KB-32.0 KB]: 40 frames, [32.0 KB-64.0 KB]: 462 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 2 frames, [1.0 MB-2.0 MB]: 2 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.0 MB
+      Overflow Count 4
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 264 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 41.1 KB
+      Overflow Count 4
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 12.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 12.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 8
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 1.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 10.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 12.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 29.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 183 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_CloudJob.Worker 0] x 2
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 11.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 30.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 118
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 6772 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 35.1 MB
+      Peak Large allocation bytes 8.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 6772 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 21.2 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 382 frames, [16.0 MB-32.0 MB]: 6390 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 19.2 MB
+      Peak Large allocation bytes 9.0 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [16.0 KB-32.0 KB]: 6772 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 20.8 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 6772 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.9 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [128.0 KB-256.0 KB]: 6771 frames, [256.0 KB-0.5 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 418.7 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.0 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [8.0 KB-16.0 KB]: 6772 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 11.2 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 6772 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.9 KB
+      Peak Large allocation bytes 0 B

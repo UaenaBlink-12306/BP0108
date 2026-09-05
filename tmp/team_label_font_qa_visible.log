@@ -1,0 +1,45 @@
+Mono path[0] = 'C:/Users/alpac/Desktop/BP0108/BP0108/BP0108_Data/Managed'
+Mono config path = 'C:/Users/alpac/Desktop/BP0108/BP0108/MonoBleedingEdge/etc'
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Initialize engine version: 2022.3.51f1c1 (e9648b0586b8)
+[Subsystems] Discovering subsystems at path C:/Users/alpac/Desktop/BP0108/BP0108/BP0108_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Graphics (ID=0xa7aa)
+    Vendor:   Intel
+    VRAM:     7963 MB
+    Driver:   32.0.101.7076
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.422 seconds
+- Finished resetting the current domain, in  0.011 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 4.832300 ms
+[CodexPatch] Question fit audit written to C:\Users\alpac\Desktop\BP0108\tmp\question_fit_audit.json
+[CodexPatch] Runtime patch bootstrap complete.
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+[CodexPatch] Stream lobby ready.
+[CodexPatch] UX enhancement layer ready.
+http://43.112.125.110:3000/game/teams
+[CodexPatch] Stream lobby QA frame requested at C:\Users\alpac\Desktop\BP0108\tmp\stream_lobby_team_qa.png
+null
+http://43.112.125.110:3000/game/start报错:{"error":"Game already active","code":"GAME_ACTIVE"}
+null
+[Flow] 游戏已结束
+null
+http://43.112.125.110:3000/game/leaderboard
+http://43.112.125.110:3000/game/teams
+[Flow] 游戏开始，共 10 题
+http://43.112.125.110:3000/game/leaderboard
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+http://43.112.125.110:3000/game/questions
+http://43.112.125.110:3000/game/teams
+http://43.112.125.110:3000/game/leaderboard
+[CodexPatch] Stream lobby closed after 8.4s; round is live.
+[Questions RAW] {"questions":[{"index":1,"id":"4145814520837557632_70977","question":"Empire that traded with China along the Silk Road, delivering coins and medallions depicting Maximian and Marcus Aurelius.","meta":{"category":"East Asia","era":"","source":""}},{"index":2,"id":"8256485734730678398_71068","question":"Country that received the port of Qingdao [[CHING-DOW]] in the treaty, triggering the May 4th Movement in another country.","meta":{"category":"East Asia","era":"","source":""}},{"index":3,"id":"2634099948783167717_70929","question":"1449 "Crisis" where over 200,000 Ming soldiers were killed and the Zhengtong Emperor was captured by a small Mongol cavalry force.","meta":{"category":"East Asia","era":"","source":""}},{"index":4,"id":"3934984331681327949_71064","question":"Military position first held by Minamoto no Yoritomo [[mih-nah-MOH-toh noh toh- ree-TOH-moh]], making him the de facto head of Japan.","meta":{"category":"East Asia","era":"","source":""}},{"index":5,"id":"5807627153844267730_70907","question":"This dynasty's founder, Nurhaci created the Eight Banners Army. A century later, its Kangxi [kahng-­shee] Emperor welcomed Jesuit missionaries. For the point, name this Chinese dynasty founded by Manchu invaders after the fall of the Ming.","meta":{"category":"East Asia","era":"","source":""}},{"index":6,"id":"172771011519092164_70910","question":"Sima Yan established the Jin dynasty during this period by overthrowing the Cao Cao-­founded Wei. The collapse of the Han dynasty led to this strife-­filled period of Chinese history. For ten points, what is this period named for the number of major combatants?","meta":{"category":"East Asia","era":"","source":""}},{"index":7,"id":"8563557077310448171_70906","question":"This region was one of the leading producers of green-­glazed celadon during the Goryeo dynasty. A later king of this region's Choson dynasty is credited with inventing its modern alphabet, hangul. For the point, name this peninsula, ruled in the 15th century by King Sejong.","meta":{"category":"East Asia","era":"","source":""}},{"index":8,"id":"7893811237934152811_70906","question":"One of these events was the brightest observed celestial event in history and occurred in 1006 AD. Another of these events in 1054 AD was recorded by Chinese astronomers and led to the creation of the Crab nebula. For the point, name these events in which stars violently explode.","meta":{"category":"East Asia","era":"","source":""}},{"index":9,"id":"6383316799072349306_70968","question":"This country's holiest shrine is rebuilt every 20 years. In 1995, a doomsday cult carried out a sarin attack in this nation's largest city. The Ise [ee-­say] and Yasukuni shrines can be found in, for ten points, what Asian country where Shinto developed in the 8th century and is practiced in Tokyo?","meta":{"category":"East Asia","era":"","source":""}},{"index":10,"id":"8516328565041028796_70899","question":"After the Battle of the Allia, one of these structures was built and named for Servius Tullius. That structure was surpassed by the Aurelian line, built in the 3rd century AD. For ten points, name this type of defensive structure that was built by the Qin Dynasty to guard the northern border of China.","meta":{"category":"East Asia","era":"","source":""}}]}
+[CodexPatch] Post-lobby QA frame requested at C:\Users\alpac\Desktop\BP0108\tmp\stream_lobby_team_started_qa.png
+http://43.112.125.110:3000/game/leaderboard

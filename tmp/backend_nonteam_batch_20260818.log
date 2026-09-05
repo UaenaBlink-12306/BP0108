@@ -1,0 +1,134 @@
+Mono path[0] = 'C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/BP0108_Data/Managed'
+Mono config path = 'C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/MonoBleedingEdge/etc'
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Initialize engine version: 2022.3.51f1c1 (e9648b0586b8)
+[Subsystems] Discovering subsystems at path C:/Users/alpac/Desktop/BP0108/BP0108_nonteam/BP0108_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.875 seconds
+- Finished resetting the current domain, in  0.012 seconds
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 4.477300 ms
+[CodexPatch] Question fit audit written to C:\Users\alpac\Desktop\BP0108\tmp\question_fit_audit.json
+[CodexPatch] Runtime patch bootstrap complete.
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+[CodexPatch] Personal livestream backend ready (isolated round state; shared Twitch chat retained).
+[CodexPatch] Stream lobby ready.
+[CodexPatch] UX enhancement layer ready.
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+[Flow] 游戏开始，共 10 题
+[CodexPatch] Prepared 10 round questions from a pool of 300.
+[CodexPatch] Stream lobby closed after 5.5s; round is live.
+[Questions RAW] {
+  "questions": [
+    {
+      "index": 1,
+      "id": "team_more_021",
+      "question": "Its rule began when a duke from Normandy became king of England.\nFor the point, name this English royal dynasty founded by William the Conqueror.",
+      "meta": {
+        "category": "Europe",
+        "era": "03",
+        "source": "original"
+      }
+    },
+    {
+      "index": 2,
+      "id": "nonteam_more_048",
+      "question": "promises not to invade Cuba plus secret removal of missiles from Turkey.\nFor the point, name this 1962 superpower crisis.",
+      "meta": {
+        "category": "World",
+        "era": "06",
+        "source": "original"
+      }
+    },
+    {
+      "index": 3,
+      "id": "nonteam_more_046",
+      "question": "Its result ended French hopes of invading Britain and confirmed British naval dominance.\nFor the point, name this 1805 naval battle off Spain.",
+      "meta": {
+        "category": "Europe",
+        "era": "05",
+        "source": "original"
+      }
+    },
+    {
+      "index": 4,
+      "id": "1572945154254623216_77767",
+      "question": "The only time this woman appeared in official press photographs was during the 1936 Berlin Olympics.\nFor the point, name this mistress-turned-wife of Adolf Hitler, whose life ended alongside him in the Fuhrerbunker.",
+      "meta": {
+        "category": "Europe",
+        "era": "06",
+        "source": "original"
+      }
+    },
+    {
+      "index": 5,
+      "id": "135405898182109513_77766",
+      "question": "This majority Indian nation was named after Christopher Columbus spotted three adjacent hills which he called the Spanish word for \"Trinity.\n\" Eric Williams was the first and longest-serving prime minister of, for the point, what country north of Venezuela, governed from Port of Spain?",
+      "meta": {
+        "category": "Latin America",
+        "era": "07",
+        "source": "original"
+      }
+    },
+    {
+      "index": 6,
+      "id": "5379787183304935933_77766",
+      "question": "This man sacked Ctesiphon, capital of the Parthian Empire, and commemorated his victory against the Dacians in a namesake \"Column.\n\" For the point, name this second of the Five Good Emperors, declared the \"best ruler\" by the Roman Senate.",
+      "meta": {
+        "category": "Europe",
+        "era": "02",
+        "source": "original"
+      }
+    },
+    {
+      "index": 7,
+      "id": "nonteam_more_011",
+      "question": "It escalated after taxes such as the Stamp Act and Tea Act, then produced a declaration adopted in Philadelphia in 1776.\nFor the point, name this struggle that created the United States.",
+      "meta": {
+        "category": "North America",
+        "era": "05",
+        "source": "original"
+      }
+    },
+    {
+      "index": 8,
+      "id": "team_more_075",
+      "question": "King Louis II died while fleeing, and much of Hungary came under Ottoman influence afterward.\nFor the point, name this battle won by Suleiman the Magnificent.",
+      "meta": {
+        "category": "Europe",
+        "era": "04",
+        "source": "original"
+      }
+    },
+    {
+      "index": 9,
+      "id": "5704505865301474506_77767",
+      "question": "This region's drainage was accelerated under the administration of Governor Napoleon Bonaparte Broward.\nHome to the assimilated Seminole people, for the point, what is this large region of marshy wetlands in South Florida?",
+      "meta": {
+        "category": "North America",
+        "era": "07",
+        "source": "original"
+      }
+    },
+    {
+      "index": 10,
+      "id": "nonteam_more_024",
+      "question": "Morel and Roger Casement.\nFor the point, name this Belgian king.",
+      "meta": {
+        "category": "Africa",
+        "era": "05",
+        "source": "original"
+      }
+    }
+  ]
+}

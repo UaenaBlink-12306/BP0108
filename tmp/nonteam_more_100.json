@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "nonteam_more_001",
+    "question": "A ruler of this empire used a bodyguard called the Immortals and inherited a realm stretched by conquest from Sardis to Babylon. Its kings used satraps and the Royal Road before losing major battles at Marathon and later Gaugamela. For the point, name this ancient Iranian empire ruled by Cyrus the Great, Darius I, and Xerxes.",
+    "answer": "Achaemenid Empire",
+    "aliases": ["First Persian Empire", "Achaemenid Persia", "Persian Empire"],
+    "meta": {
+      "category": "Middle East",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of an ancient king on a throne, a long road with messengers, and Persian-style columns."
+    }
+  },
+  {
+    "id": "nonteam_more_002",
+    "question": "This woman became a symbol for a later nationalist movement after she said she heard saintly voices near her home in Domremy. She helped raise the siege of Orleans and was later tried for heresy by an English-backed court at Rouen. For the point, name this French teenager burned at the stake during the Hundred Years' War.",
+    "answer": "Joan of Arc",
+    "aliases": ["Jeanne d'Arc", "Saint Joan"],
+    "meta": {
+      "category": "Europe",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a young armored rider holding a white banner outside a medieval city gate."
+    }
+  },
+  {
+    "id": "nonteam_more_003",
+    "question": "This empire's elite Janissaries were recruited through the devshirme system and later became a powerful political force. Its sultan Mehmed II captured Constantinople in 1453, and Suleiman the Magnificent expanded it across the eastern Mediterranean. For the point, name this Turkish empire ruled from Istanbul.",
+    "answer": "Ottoman Empire",
+    "aliases": ["Ottoman Turks", "Ottoman state"],
+    "meta": {
+      "category": "Middle East",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of domed mosques, a crescent flag, and soldiers before a breached city wall."
+    }
+  },
+  {
+    "id": "nonteam_more_004",
+    "question": "This rebellion drew support from peasants who believed their leader was the younger brother of Jesus Christ. Its forces captured Nanjing and renamed it Tianjing before being crushed by Qing armies aided by the Ever Victorious Army. For the point, name this massive 19th-century Chinese civil war led by Hong Xiuquan.",
+    "answer": "Taiping Rebellion",
+    "aliases": ["Taiping Civil War", "Taiping Uprising"],
+    "meta": {
+      "category": "East Asia",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a walled Chinese city, rebel banners, and a dramatic stormy battlefield."
+    }
+  },
+  {
+    "id": "nonteam_more_005",
+    "question": "This ruler defeated the Mamluks at Marj Dabiq and Ridaniya, bringing Egypt, Syria, and the holy cities under his control. He was the father of Suleiman the Magnificent and earned the nickname 'the Grim' after defeating the Safavids at Chaldiran. For the point, name this Ottoman sultan, Selim I.",
+    "answer": "Selim I",
+    "aliases": ["Selim the Grim", "Yavuz Sultan Selim"],
+    "meta": {
+      "category": "Middle East",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of an Ottoman sultan on horseback with desert pyramids and distant banners."
+    }
+  },
+  {
+    "id": "nonteam_more_006",
+    "question": "This kingdom's armies used the impi system and short stabbing spears after reforms that emphasized close combat. It won a famous victory over British troops at Isandlwana before later defeat at Ulundi. For the point, name this southern African kingdom associated with Shaka.",
+    "answer": "Zulu Kingdom",
+    "aliases": ["Zulu Empire", "Zulu"],
+    "meta": {
+      "category": "Africa",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of shield-bearing warriors in a grassland formation with hills in the background."
+    }
+  },
+  {
+    "id": "nonteam_more_007",
+    "question": "This man organized the March on Washington with Bayard Rustin and wrote from a jail in Birmingham. He won the Nobel Peace Prize after leading campaigns that included the Montgomery bus boycott and the Selma marches. For the point, name this civil rights leader who delivered the 'I Have a Dream' speech.",
+    "answer": "Martin Luther King Jr.",
+    "aliases": ["MLK", "Dr. King", "Martin Luther King"],
+    "meta": {
+      "category": "North America",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a preacher at a podium before a peaceful crowd near a reflecting pool."
+    }
+  },
+  {
+    "id": "nonteam_more_008",
+    "question": "This battle began after a French army crossed the Sambre and surprised Prussian forces at Ligny. Grouchy failed to stop Blucher's Prussians from reinforcing the Duke of Wellington, and Napoleon's Imperial Guard finally broke. For the point, name this 1815 battle that ended the Hundred Days.",
+    "answer": "Battle of Waterloo",
+    "aliases": ["Waterloo"],
+    "meta": {
+      "category": "Europe",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of muddy fields, cannon smoke, and a small emperor watching cavalry charge."
+    }
+  },
+  {
+    "id": "nonteam_more_009",
+    "question": "This treaty was negotiated after delegates met at San Francisco and Dumbarton Oaks to design a replacement for the League of Nations. It created a Security Council with five permanent members and a General Assembly for all member states. For the point, name this 1945 charter founding the United Nations.",
+    "answer": "United Nations Charter",
+    "aliases": ["UN Charter", "Charter of the United Nations"],
+    "meta": {
+      "category": "World",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of many flags around a round table with a blue globe emblem shape."
+    }
+  },
+  {
+    "id": "nonteam_more_010",
+    "question": "This empire controlled a capital at Cuzco and used quipu cords to record information. Its rulers organized labor through the mita system and built roads across the Andes before Francisco Pizarro captured Atahualpa. For the point, name this South American empire that built Machu Picchu.",
+    "answer": "Inca Empire",
+    "aliases": ["Incan Empire", "Tawantinsuyu", "Inca"],
+    "meta": {
+      "category": "Latin America",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of mountain terraces, knotted cords, and a stone citadel above clouds."
+    }
+  },
+  {
+    "id": "nonteam_more_011",
+    "question": "This event was sparked after Franz Ferdinand was killed in Sarajevo, leading Austria-Hungary to issue an ultimatum to Serbia. It featured trench warfare, unrestricted submarine warfare, and ended with armistice on November 11, 1918. For the point, name this global conflict fought by the Allied and Central Powers.",
+    "answer": "World War I",
+    "aliases": ["First World War", "Great War", "WWI"],
+    "meta": {
+      "category": "World",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of muddy trenches, barbed wire, helmets, and biplanes overhead."
+    }
+  },
+  {
+    "id": "nonteam_more_012",
+    "question": "This dynasty was founded after Zhu Yuanzhang expelled the Yuan and took the Hongwu Emperor title. It sponsored Zheng He's voyages and built much of the Forbidden City under the Yongle Emperor. For the point, name this Chinese dynasty that preceded the Qing.",
+    "answer": "Ming dynasty",
+    "aliases": ["Ming", "Great Ming"],
+    "meta": {
+      "category": "East Asia",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of treasure ships, red palace gates, and a porcelain vase."
+    }
+  },
+  {
+    "id": "nonteam_more_013",
+    "question": "This city-state fought the Peloponnesian War after earlier leading the Delian League. Its statesman Pericles sponsored building projects on the Acropolis, including the Parthenon. For the point, name this ancient Greek polis known as the birthplace of democracy.",
+    "answer": "Athens",
+    "aliases": ["Athenian city-state"],
+    "meta": {
+      "category": "Europe",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of marble columns on a hill, voting pebbles, and an owl."
+    }
+  },
+  {
+    "id": "nonteam_more_014",
+    "question": "This empire's armies included cavalry led by generals such as Subutai and Jebe. It was divided among khanates after the death of a conqueror whose campaigns began on the steppe north of China. For the point, name this empire founded by Genghis Khan.",
+    "answer": "Mongol Empire",
+    "aliases": ["Mongol state", "Empire of the Mongols"],
+    "meta": {
+      "category": "Central Asia",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of mounted archers racing across a wide grassland under a huge sky."
+    }
+  },
+  {
+    "id": "nonteam_more_015",
+    "question": "This document's barons forced a king to accept limits at Runnymede after anger over taxation and failed wars in France. Later generations used its clauses on lawful judgment and consent to taxation as symbols of constitutional government. For the point, name this 1215 English charter signed by King John.",
+    "answer": "Magna Carta",
+    "aliases": ["Great Charter", "Magna Carta Libertatum"],
+    "meta": {
+      "category": "Europe",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a medieval king reluctantly sealing a parchment before armored nobles."
+    }
+  },
+  {
+    "id": "nonteam_more_016",
+    "question": "This revolution began after troops fired on demonstrators during the February uprising, leading Nicholas II to abdicate. Later that year, Bolsheviks seized the Winter Palace and promised peace, land, and bread under Lenin. For the point, name this 1917 revolution that overthrew the Romanovs.",
+    "answer": "Russian Revolution",
+    "aliases": ["Russian Revolution of 1917", "1917 Russian Revolution"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of snow-covered protesters, red flags, and a palace gate."
+    }
+  },
+  {
+    "id": "nonteam_more_017",
+    "question": "This admiral won victories at Aboukir Bay and Copenhagen before facing a combined French and Spanish fleet. He died aboard HMS Victory after ordering the signal that England expected every man to do his duty. For the point, name this British naval commander who won the Battle of Trafalgar.",
+    "answer": "Horatio Nelson",
+    "aliases": ["Lord Nelson", "Admiral Nelson", "Horatio Lord Nelson"],
+    "meta": {
+      "category": "Europe",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a one-armed admiral on a wooden ship with signal flags."
+    }
+  },
+  {
+    "id": "nonteam_more_018",
+    "question": "This movement followed the execution of Miguel Hidalgo and Jose Maria Morelos, but continued under insurgent leaders such as Vicente Guerrero. It ended after Agustin de Iturbide backed the Plan of Iguala and entered the capital with the Army of the Three Guarantees. For the point, name this struggle that separated New Spain from Spain.",
+    "answer": "Mexican War of Independence",
+    "aliases": ["Mexican independence", "Mexico's War of Independence"],
+    "meta": {
+      "category": "Latin America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of church bells, tricolor banners, and riders entering a colonial plaza."
+    }
+  },
+  {
+    "id": "nonteam_more_019",
+    "question": "This empire's rulers included Chandragupta and a grandson who embraced Buddhism after the bloody Kalinga War. Its edicts were carved on pillars across South Asia and often used lions as royal symbols. For the point, name this ancient Indian empire ruled by Ashoka.",
+    "answer": "Maurya Empire",
+    "aliases": ["Mauryan Empire", "Maurya dynasty"],
+    "meta": {
+      "category": "South Asia",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a stone pillar with lions, a wheel symbol, and an ancient Indian court."
+    }
+  },
+  {
+    "id": "nonteam_more_020",
+    "question": "This civilization built ceremonial centers such as Tikal, Palenque, and Copan and used a Long Count calendar. Its scribes wrote in glyphs on stelae and codices before many cities declined in the Classic period. For the point, name this Mesoamerican civilization known for step pyramids in the Yucatan and Guatemala.",
+    "answer": "Maya civilization",
+    "aliases": ["Mayan civilization", "Maya"],
+    "meta": {
+      "category": "Latin America",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of jungle pyramids, carved glyph stones, and an astronomer watching stars."
+    }
+  },
+  {
+    "id": "nonteam_more_021",
+    "question": "This naval battle was fought near Greece after the forces of Mark Antony and Cleopatra faced Octavian's admiral Agrippa. Cleopatra's ships withdrew, and the defeat helped Octavian become Augustus. For the point, name this 31 BCE battle that ended the Roman Republic's last civil war.",
+    "answer": "Battle of Actium",
+    "aliases": ["Actium"],
+    "meta": {
+      "category": "Europe",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of ancient warships with oars near a rocky Greek coast."
+    }
+  },
+  {
+    "id": "nonteam_more_022",
+    "question": "This organization began with the Schuman Declaration and earlier communities for coal, steel, and atomic energy. The Maastricht Treaty gave it its modern name and created a path toward the euro currency. For the point, name this political and economic union of many European states.",
+    "answer": "European Union",
+    "aliases": ["EU"],
+    "meta": {
+      "category": "Europe",
+      "era": "07",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a circle of yellow stars over a map-like blue background and city skylines."
+    }
+  },
+  {
+    "id": "nonteam_more_023",
+    "question": "This woman survived an IRA bombing at Brighton's Grand Hotel during a party conference. She served as Britain's prime minister during the Falklands War and clashed with miners' unions while privatizing state industries. For the point, name this Conservative leader nicknamed the Iron Lady.",
+    "answer": "Margaret Thatcher",
+    "aliases": ["Baroness Thatcher", "Margaret Hilda Thatcher", "Iron Lady"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a stern woman politician with a handbag before Parliament and factory silhouettes."
+    }
+  },
+  {
+    "id": "nonteam_more_024",
+    "question": "This answer is associated with the seizure of a slave ship whose captives were defended by John Quincy Adams before the Supreme Court. Its story began after Africans led by Sengbe Pieh took control off Cuba and were later imprisoned in Connecticut. For the point, name this ship at the center of an 1839 U.S. abolitionist case.",
+    "answer": "La Amistad",
+    "aliases": ["Amistad", "Spanish schooner Amistad"],
+    "meta": {
+      "category": "North America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a small sailing ship at sea with broken chains and a courthouse in the distance."
+    }
+  },
+  {
+    "id": "nonteam_more_025",
+    "question": "This empire grew from the kingdom of Gao and dominated trade along the Niger River. It was weakened after Moroccan forces with firearms defeated it at Tondibi in 1591. For the point, name this West African empire ruled by Sunni Ali and Askia the Great.",
+    "answer": "Songhai Empire",
+    "aliases": ["Songhay Empire", "Songhai"],
+    "meta": {
+      "category": "Latin America",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a Niger River city with mud-brick buildings, traders, and royal cavalry."
+    }
+  },
+  {
+    "id": "nonteam_more_026",
+    "question": "This leader used the Five-Year Plans and collectivization while eliminating rivals in the Great Purge. His pact with Ribbentrop preceded the invasion of Poland, and his country later defeated Germany after battles at Stalingrad and Kursk. For the point, name this Soviet dictator who succeeded Lenin.",
+    "answer": "Joseph Stalin",
+    "aliases": ["Stalin", "Iosif Stalin"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a mustached ruler before factories, wheat fields, and red banners."
+    }
+  },
+  {
+    "id": "nonteam_more_027",
+    "question": "This conflict included the battles of Plassey, Quebec, and Rossbach because it linked colonial fighting with European alliances. It ended with the Treaty of Paris in 1763 and helped Britain gain Canada from France. For the point, name this global war often considered the first world war.",
+    "answer": "Seven Years' War",
+    "aliases": ["French and Indian War", "Third Silesian War"],
+    "meta": {
+      "category": "World",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a globe split between soldiers in Europe, India, and North America."
+    }
+  },
+  {
+    "id": "nonteam_more_028",
+    "question": "This man wrote a letter from Jamaica arguing that Spanish America needed independence and republican government. With Jose de San Martin, he is remembered as a liberator, and his campaigns helped free Venezuela, Colombia, Ecuador, Peru, and Bolivia. For the point, name this South American revolutionary called El Libertador.",
+    "answer": "Simon Bolivar",
+    "aliases": ["Simón Bolívar", "El Libertador"],
+    "meta": {
+      "category": "Latin America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a uniformed rider crossing mountains with liberation banners."
+    }
+  },
+  {
+    "id": "nonteam_more_029",
+    "question": "This leader fought a guerrilla war from bases in the Sierra Maestra after the failed Moncada Barracks attack. He overthrew Fulgencio Batista and later faced the Bay of Pigs invasion and Cuban Missile Crisis. For the point, name this communist leader of Cuba.",
+    "answer": "Fidel Castro",
+    "aliases": ["Castro", "Fidel Alejandro Castro Ruz"],
+    "meta": {
+      "category": "Latin America",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a bearded guerrilla in olive uniform on a Caribbean island with mountains."
+    }
+  },
+  {
+    "id": "nonteam_more_030",
+    "question": "This battle followed a long forced march by Harold Godwinson after he defeated Harald Hardrada at Stamford Bridge. William of Normandy won after English shield-wall defenses collapsed near Senlac Hill. For the point, name this 1066 battle that began Norman rule in England.",
+    "answer": "Battle of Hastings",
+    "aliases": ["Hastings"],
+    "meta": {
+      "category": "Europe",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of Norman cavalry charging a hilltop shield wall."
+    }
+  },
+  {
+    "id": "nonteam_more_031",
+    "question": "This dynasty fell after the Xinhai Revolution and the abdication of the child emperor Puyi. Earlier, it expanded into Xinjiang and Tibet but struggled against the Opium Wars and the Taiping Rebellion. For the point, name China's last imperial dynasty, founded by Manchus.",
+    "answer": "Qing dynasty",
+    "aliases": ["Qing", "Ch'ing dynasty", "Manchu dynasty"],
+    "meta": {
+      "category": "East Asia",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a Manchu court official, dragon robe, and fading imperial palace."
+    }
+  },
+  {
+    "id": "nonteam_more_032",
+    "question": "This prophet migrated from Mecca to Medina in an event called the Hijra. He unified much of Arabia and received revelations later collected in the Quran. For the point, name the founder of Islam.",
+    "answer": "Muhammad",
+    "aliases": ["Prophet Muhammad", "Mohammed"],
+    "meta": {
+      "category": "Middle East",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text respectful cartoon of a desert caravan, a glowing book on a stand, and a distant oasis with no human face shown."
+    }
+  },
+  {
+    "id": "nonteam_more_033",
+    "question": "This empire's capital at Tenochtitlan was connected by causeways and supplied by chinampa farms. It was ruled by Moctezuma II when Hernan Cortes allied with Tlaxcalans and captured the city in 1521. For the point, name this Mesoamerican empire of central Mexico.",
+    "answer": "Aztec Empire",
+    "aliases": ["Mexica Empire", "Aztec Triple Alliance", "Aztec"],
+    "meta": {
+      "category": "Latin America",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of island city canals, causeways, feathered warriors, and volcanoes."
+    }
+  },
+  {
+    "id": "nonteam_more_034",
+    "question": "This battle was won after a flanking force commanded by Khalid ibn al-Walid attacked Byzantine troops in Syria. It allowed Muslim armies to secure the Levant soon after the death of Muhammad. For the point, name this 636 battle on a tributary of the Jordan River.",
+    "answer": "Battle of Yarmouk",
+    "aliases": ["Yarmouk"],
+    "meta": {
+      "category": "Middle East",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of desert cliffs, cavalry banners, and two armies near a river gorge."
+    }
+  },
+  {
+    "id": "nonteam_more_035",
+    "question": "This queen defeated Roman forces after her daughters were abused and her husband Prasutagus's will was ignored. Her revolt burned Camulodunum and Londinium before being defeated by Suetonius Paulinus. For the point, name this Iceni queen who rebelled against Rome in Britain.",
+    "answer": "Boudica",
+    "aliases": ["Boudicca", "Boadicea"],
+    "meta": {
+      "category": "Europe",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a red-haired warrior queen in a chariot before smoky Roman buildings."
+    }
+  },
+  {
+    "id": "nonteam_more_036",
+    "question": "This ruler defeated Ibrahim Lodi at Panipat with field artillery and wrote memoirs in the Baburnama. He founded a dynasty later ruled by Akbar, Jahangir, Shah Jahan, and Aurangzeb. For the point, name this Central Asian conqueror who founded the Mughal Empire.",
+    "answer": "Babur",
+    "aliases": ["Zahir-ud-din Muhammad Babur"],
+    "meta": {
+      "category": "South Asia",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a turbaned conqueror with cannons before a North Indian battlefield."
+    }
+  },
+  {
+    "id": "nonteam_more_037",
+    "question": "This war included the Inchon landing and a Chinese intervention after United Nations forces advanced toward the Yalu River. It ended with an armistice, not a peace treaty, near the 38th parallel. For the point, name this 1950s war on a divided Asian peninsula.",
+    "answer": "Korean War",
+    "aliases": ["Korean conflict"],
+    "meta": {
+      "category": "East Asia",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of snowy hills, a divided map-like peninsula, and soldiers near a demarcation line."
+    }
+  },
+  {
+    "id": "nonteam_more_038",
+    "question": "This city was founded by Constantine as a new Roman capital and guarded the Bosporus between Europe and Asia. It fell in 1453 after Mehmed II used large cannons against its walls. For the point, name this Byzantine capital later called Istanbul.",
+    "answer": "Constantinople",
+    "aliases": ["Byzantium", "Istanbul"],
+    "meta": {
+      "category": "Europe",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of massive city walls, domes, and ships in a narrow strait."
+    }
+  },
+  {
+    "id": "nonteam_more_039",
+    "question": "This uprising began aboard the battleship Potemkin and with strikes after Bloody Sunday in Saint Petersburg. It forced Nicholas II to issue the October Manifesto and create the Duma, though autocracy largely survived. For the point, name this earlier Russian revolution before the one in 1917.",
+    "answer": "Russian Revolution of 1905",
+    "aliases": ["1905 Russian Revolution", "Revolution of 1905"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of factory workers, a battleship, and snow outside an imperial palace."
+    }
+  },
+  {
+    "id": "nonteam_more_040",
+    "question": "This state fought the Punic Wars against Rome and relied on generals such as Hamilcar Barca and Hannibal. Its capital was destroyed in 146 BCE after Cato the Elder repeatedly urged its destruction. For the point, name this North African city-state founded by Phoenicians.",
+    "answer": "Carthage",
+    "aliases": ["Carthaginian Empire", "Punic Carthage"],
+    "meta": {
+      "category": "Africa",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of elephants crossing mountains and a harbor city with Phoenician ships."
+    }
+  },
+  {
+    "id": "nonteam_more_041",
+    "question": "This ruler defeated Porus at the Hydaspes but turned back after his troops refused to go farther into India. Earlier, he conquered the Persian Empire after victories at Issus and Gaugamela. For the point, name this Macedonian king and student of Aristotle.",
+    "answer": "Alexander the Great",
+    "aliases": ["Alexander III of Macedon", "Alexander III"],
+    "meta": {
+      "category": "Europe",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a young king on horseback with a map stretching from Greece to India."
+    }
+  },
+  {
+    "id": "nonteam_more_042",
+    "question": "This empire's age is often called a classical golden age for Sanskrit literature, mathematics, and temple art. Its rulers included Chandragupta II, and its later power was weakened by Huna invasions. For the point, name this ancient Indian empire associated with Kalidasa and the decimal system.",
+    "answer": "Gupta Empire",
+    "aliases": ["Gupta dynasty", "Guptas"],
+    "meta": {
+      "category": "South Asia",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of scholars with palm-leaf manuscripts, temple carvings, and number symbols."
+    }
+  },
+  {
+    "id": "nonteam_more_043",
+    "question": "This rebellion's leaders included Nat Turner, whose visions helped inspire an uprising in Southampton County. Its aftermath led Virginia and other states to tighten laws against enslaved people and free Black communities. For the point, name this 1831 slave revolt in the United States.",
+    "answer": "Nat Turner's Rebellion",
+    "aliases": ["Southampton Insurrection", "Nat Turner revolt"],
+    "meta": {
+      "category": "North America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a moonlit rural road, broken chains, and tense silhouettes near cabins."
+    }
+  },
+  {
+    "id": "nonteam_more_044",
+    "question": "This treaty ended a war after American troops captured Mexico City and Nicholas Trist negotiated despite being recalled. It transferred California and New Mexico to the United States in exchange for payment and a recognized Rio Grande border. For the point, name this 1848 treaty ending the Mexican-American War.",
+    "answer": "Treaty of Guadalupe Hidalgo",
+    "aliases": ["Guadalupe Hidalgo"],
+    "meta": {
+      "category": "North America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of diplomats signing a map showing desert, mountains, and a river border."
+    }
+  },
+  {
+    "id": "nonteam_more_045",
+    "question": "This medieval traveler served Kublai Khan and later dictated his journeys while imprisoned in Genoa. His book described cities, paper money, and trade routes in Yuan China to European readers. For the point, name this Venetian merchant whose travels inspired later explorers.",
+    "answer": "Marco Polo",
+    "aliases": ["Polo"],
+    "meta": {
+      "category": "World",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a Venetian merchant on a camel caravan carrying scrolls toward a Chinese palace."
+    }
+  },
+  {
+    "id": "nonteam_more_046",
+    "question": "This conquest began after Tostig and Harald Hardrada were defeated in the north, leaving Harold Godwinson exhausted. The Bayeux Tapestry depicts the invader crossing the Channel and winning at Hastings. For the point, name this takeover of England by William the Conqueror.",
+    "answer": "Norman Conquest of England",
+    "aliases": ["Norman Conquest", "Conquest of England by William the Conqueror"],
+    "meta": {
+      "category": "Europe",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of longships landing beneath a castle and a stitched tapestry border style."
+    }
+  },
+  {
+    "id": "nonteam_more_047",
+    "question": "This empire fought the Byzantine Empire for the Balkans and later converted to Christianity under Boris I. It reached a cultural golden age under Simeon the Great, when Slavic literature flourished at Preslav. For the point, name this medieval empire centered in the Balkans north of Byzantium.",
+    "answer": "First Bulgarian Empire",
+    "aliases": ["Bulgarian Empire", "medieval Bulgaria"],
+    "meta": {
+      "category": "Europe",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of Balkan mountains, a medieval crown, and monks copying Slavic manuscripts."
+    }
+  },
+  {
+    "id": "nonteam_more_048",
+    "question": "This conference included Roosevelt, Churchill, and Stalin meeting in Crimea to discuss postwar Europe. It planned occupation zones for Germany and helped set conditions for Soviet entry into the war against Japan. For the point, name this 1945 Allied conference often criticized for its decisions about Eastern Europe.",
+    "answer": "Yalta Conference",
+    "aliases": ["Yalta"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of three leaders seated around a table with a map of Europe and winter windows."
+    }
+  },
+  {
+    "id": "nonteam_more_049",
+    "question": "This ship's sinking by a German U-boat helped shift American opinion during World War I. It was carrying passengers from New York to Liverpool when it was torpedoed off Ireland in 1915. For the point, name this British ocean liner whose sinking killed nearly 1,200 people.",
+    "answer": "RMS Lusitania",
+    "aliases": ["Lusitania"],
+    "meta": {
+      "category": "World",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a large ocean liner tilting in rough water with a submarine silhouette far away."
+    }
+  },
+  {
+    "id": "nonteam_more_050",
+    "question": "This emperor's reign began after Commodus and a civil war among several claimants. He defeated rivals Pescennius Niger and Clodius Albinus and founded a dynasty that included Caracalla. For the point, name this Roman emperor born in Leptis Magna in North Africa.",
+    "answer": "Septimius Severus",
+    "aliases": ["Lucius Septimius Severus", "Severus"],
+    "meta": {
+      "category": "Africa",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a Roman emperor in armor beside North African ruins and legion standards."
+    }
+  },
+  {
+    "id": "nonteam_more_051",
+    "question": "This kingdom grew rich from gold and salt trade and was visited by Ibn Battuta, who described its royal court. Its ruler Mansa Musa made a famously lavish pilgrimage to Mecca in 1324. For the point, name this West African empire centered on cities such as Timbuktu.",
+    "answer": "Mali Empire",
+    "aliases": ["Empire of Mali", "Mali"],
+    "meta": {
+      "category": "Africa",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a desert caravan carrying gold, salt slabs, and books toward a mud-brick city."
+    }
+  },
+  {
+    "id": "nonteam_more_052",
+    "question": "This war included the Long March, the Xi'an Incident, and a temporary united front against Japan. It ended on the mainland when Mao Zedong proclaimed the People's Republic and Chiang Kai-shek retreated to Taiwan. For the point, name this conflict between Communists and Nationalists.",
+    "answer": "Chinese Civil War",
+    "aliases": ["Chinese Communist Revolution", "Nationalist-Communist Civil War"],
+    "meta": {
+      "category": "East Asia",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of two opposing Chinese flags on hills separated by a winding river."
+    }
+  },
+  {
+    "id": "nonteam_more_053",
+    "question": "This author argued that rulers must learn how not to be good if circumstances require it. He served the Florentine Republic before writing a manual dedicated to Lorenzo de' Medici after the Medici returned to power. For the point, name this political thinker who wrote The Prince.",
+    "answer": "Niccolo Machiavelli",
+    "aliases": ["Machiavelli", "Niccolò Machiavelli"],
+    "meta": {
+      "category": "Europe",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a Renaissance writer with a quill, a crown, and a chessboard."
+    }
+  },
+  {
+    "id": "nonteam_more_054",
+    "question": "This event began after Thomas Cranmer annulled a king's marriage to Catherine of Aragon and Parliament passed acts limiting papal authority. It produced the Church of England under Henry VIII and was later shaped by Edward VI, Mary I, and Elizabeth I. For the point, name this religious break from Rome in England.",
+    "answer": "English Reformation",
+    "aliases": ["Reformation in England"],
+    "meta": {
+      "category": "Europe",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a Tudor crown splitting a church building from a distant papal tiara."
+    }
+  },
+  {
+    "id": "nonteam_more_055",
+    "question": "This ruler issued the Edict of Nantes after converting from Protestantism with the remark that Paris was worth a Mass. He became the first Bourbon king after surviving the French Wars of Religion. For the point, name this French king assassinated by Francois Ravaillac.",
+    "answer": "Henry IV of France",
+    "aliases": ["Henri IV", "Henry of Navarre"],
+    "meta": {
+      "category": "Europe",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a French king holding an olive branch between two church doors."
+    }
+  },
+  {
+    "id": "nonteam_more_056",
+    "question": "This rebellion began in 1857 when sepoys resisted new rifle cartridges rumored to be greased with cow and pig fat. It led Britain to dissolve the East India Company's rule and govern India directly through the Raj. For the point, name this major anti-British uprising in India.",
+    "answer": "Indian Rebellion of 1857",
+    "aliases": ["Sepoy Mutiny", "First War of Indian Independence", "Indian Mutiny"],
+    "meta": {
+      "category": "South Asia",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of sepoy soldiers, old rifles, and a torn company flag before a fort."
+    }
+  },
+  {
+    "id": "nonteam_more_057",
+    "question": "This ruler sent Judar Pasha across the Sahara to defeat Songhai at Tondibi and seize gold-rich trade routes. He gained power after the Battle of Alcazarquivir, where Portugal's King Sebastian died. For the point, name this Saadi sultan of Morocco nicknamed al-Mansur.",
+    "answer": "Ahmad al-Mansur",
+    "aliases": ["Ahmed al-Mansur", "Ahmad al-Mansur al-Dhahabi"],
+    "meta": {
+      "category": "Africa",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a Moroccan sultan with desert caravans, muskets, and a golden palace courtyard."
+    }
+  },
+  {
+    "id": "nonteam_more_058",
+    "question": "This battle was fought after the Arab governor Abd al-Rahman advanced into Frankish territory. Charles Martel's forces halted that advance near Tours or Poitiers in 732. For the point, name this battle often cited as stopping Muslim expansion into western Europe.",
+    "answer": "Battle of Tours",
+    "aliases": ["Battle of Poitiers", "Tours-Poitiers"],
+    "meta": {
+      "category": "Europe",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of Frankish infantry with shields holding a line in autumn fields."
+    }
+  },
+  {
+    "id": "nonteam_more_059",
+    "question": "This queen defeated the Spanish Armada after giving a speech at Tilbury to English troops. Her long reign saw the flowering of Shakespeare's theater and the settlement attempt at Roanoke. For the point, name this Tudor monarch, daughter of Henry VIII and Anne Boleyn.",
+    "answer": "Elizabeth I",
+    "aliases": ["Queen Elizabeth I", "Elizabeth Tudor", "Gloriana"],
+    "meta": {
+      "category": "Europe",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a red-haired queen in a ruff with storm-tossed Spanish ships behind her."
+    }
+  },
+  {
+    "id": "nonteam_more_060",
+    "question": "This battle followed the retreat of the Grande Armee from Russia and involved armies from Austria, Prussia, Russia, and Sweden. Napoleon was decisively defeated near a Saxon city in 1813. For the point, name this largest battle of the Napoleonic Wars, also called the Battle of the Nations.",
+    "answer": "Battle of Leipzig",
+    "aliases": ["Battle of the Nations", "Leipzig"],
+    "meta": {
+      "category": "Europe",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of many national flags converging on smoky fields around a city skyline."
+    }
+  },
+  {
+    "id": "nonteam_more_061",
+    "question": "This man led a nonviolent campaign against apartheid and earlier helped found Umkhonto we Sizwe after the Sharpeville massacre. He was imprisoned on Robben Island and later became South Africa's first Black president. For the point, name this African National Congress leader.",
+    "answer": "Nelson Mandela",
+    "aliases": ["Mandela", "Nelson Rolihlahla Mandela"],
+    "meta": {
+      "category": "Africa",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a smiling elder statesman with prison bars fading into a ballot box."
+    }
+  },
+  {
+    "id": "nonteam_more_062",
+    "question": "This policy was announced after George Kennan's Long Telegram and supported aid to Greece and Turkey. It argued that the United States should help free peoples resisting armed minorities or outside pressure. For the point, name this 1947 Cold War policy named for a U.S. president.",
+    "answer": "Truman Doctrine",
+    "aliases": ["Truman's doctrine"],
+    "meta": {
+      "category": "North America",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a president at a desk pointing to Greece and Turkey on a map."
+    }
+  },
+  {
+    "id": "nonteam_more_063",
+    "question": "This plan was administered by the Economic Cooperation Administration and helped rebuild Western Europe after World War II. It was proposed by a U.S. secretary of state in a Harvard speech and rejected by Soviet-aligned governments. For the point, name this American recovery program.",
+    "answer": "Marshall Plan",
+    "aliases": ["European Recovery Program", "ERP"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of crates, tools, and dollars rebuilding a bomb-damaged European street."
+    }
+  },
+  {
+    "id": "nonteam_more_064",
+    "question": "This ruler was overthrown after Iran's Majlis and clerics opposed his ties to foreign powers and secret police. His 1979 exile was followed by Ayatollah Khomeini's return and the creation of an Islamic Republic. For the point, name this last shah of Iran.",
+    "answer": "Mohammad Reza Pahlavi",
+    "aliases": ["Shah of Iran", "Mohammed Reza Shah", "Mohammad Reza Shah Pahlavi"],
+    "meta": {
+      "category": "Middle East",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a jeweled crown on an empty throne with protest crowds and desert mountains."
+    }
+  },
+  {
+    "id": "nonteam_more_065",
+    "question": "This event began when East German authorities mistakenly announced immediate travel permissions at a press conference. Crowds gathered at checkpoints and soon crossed a barrier that had divided a city since 1961. For the point, name this 1989 event symbolizing the end of the Cold War in Europe.",
+    "answer": "Fall of the Berlin Wall",
+    "aliases": ["opening of the Berlin Wall", "Berlin Wall falls"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of people climbing a concrete wall with hammers, floodlights, and celebration."
+    }
+  },
+  {
+    "id": "nonteam_more_066",
+    "question": "This kingdom was ruled by Jayavarman VII, who built Bayon with towers showing serene faces. Its capital complex includes Angkor Wat, originally dedicated to Vishnu and later used as a Buddhist site. For the point, name this Southeast Asian empire centered in Cambodia.",
+    "answer": "Khmer Empire",
+    "aliases": ["Angkor Empire", "Khmer"],
+    "meta": {
+      "category": "Southeast Asia",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of jungle temples with face towers, lotus ponds, and stone causeways."
+    }
+  },
+  {
+    "id": "nonteam_more_067",
+    "question": "This man ordered a fleet to burn after arriving in Mexico to discourage retreat, though the story is often simplified. He allied with Tlaxcala and captured Moctezuma II before the fall of Tenochtitlan. For the point, name this Spanish conquistador who conquered the Aztec Empire.",
+    "answer": "Hernan Cortes",
+    "aliases": ["Hernán Cortés", "Cortes", "Cortés"],
+    "meta": {
+      "category": "Latin America",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a conquistador helmet, burning ships, and an island city in a lake."
+    }
+  },
+  {
+    "id": "nonteam_more_068",
+    "question": "This plague spread through trade routes and caused labor shortages that weakened feudal structures in Europe. It killed millions in the mid-14th century and was caused by Yersinia pestis spread partly by fleas. For the point, name this pandemic often called the Black Death.",
+    "answer": "Black Death",
+    "aliases": ["bubonic plague pandemic", "Great Mortality"],
+    "meta": {
+      "category": "World",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of medieval streets, masked healers, and rats near merchant carts."
+    }
+  },
+  {
+    "id": "nonteam_more_069",
+    "question": "This naval battle was fought after Themistocles persuaded Greek allies to confront a larger Persian fleet in narrow waters. Xerxes watched as Greek triremes defeated his navy near Athens in 480 BCE. For the point, name this major battle of the Greco-Persian Wars.",
+    "answer": "Battle of Salamis",
+    "aliases": ["Salamis"],
+    "meta": {
+      "category": "Europe",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of Greek triremes ramming ships in a narrow blue strait."
+    }
+  },
+  {
+    "id": "nonteam_more_070",
+    "question": "This dynasty's rulers included Harun al-Rashid and al-Ma'mun, who supported translation activity at the House of Wisdom. Its capital Baghdad became a center of learning before being sacked by the Mongols in 1258. For the point, name this Islamic caliphate that overthrew the Umayyads.",
+    "answer": "Abbasid Caliphate",
+    "aliases": ["Abbasids", "Abbasid dynasty"],
+    "meta": {
+      "category": "Middle East",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of scholars in a round city library with astrolabes and scrolls."
+    }
+  },
+  {
+    "id": "nonteam_more_071",
+    "question": "This leader nationalized schools and oil companies while trying to balance Sinhala and Tamil political tensions. She first became prime minister in 1960 after her husband's assassination and later led Ceylon as it became Sri Lanka. For the point, name the world's first elected female prime minister.",
+    "answer": "Sirimavo Bandaranaike",
+    "aliases": ["Sirimavo Bandaranaike", "Sirimavo Ratwatte Dias Bandaranaike"],
+    "meta": {
+      "category": "South Asia",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a sari-clad prime minister at a podium with an island map and ballot box."
+    }
+  },
+  {
+    "id": "nonteam_more_072",
+    "question": "This campaign began after the Viet Minh defeated France at Dien Bien Phu and Vietnam was divided at Geneva. U.S. involvement escalated after the Gulf of Tonkin incident and ended with the fall of Saigon. For the point, name this Cold War conflict in Southeast Asia.",
+    "answer": "Vietnam War",
+    "aliases": ["Second Indochina War", "American War in Vietnam"],
+    "meta": {
+      "category": "Southeast Asia",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of jungle helicopters, rice paddies, and a divided map-shaped country."
+    }
+  },
+  {
+    "id": "nonteam_more_073",
+    "question": "This dynasty reunified China after the Period of Division and dug much of the Grand Canal using forced labor. Its second emperor Yangdi launched costly campaigns against Goguryeo before rebellions destroyed the dynasty. For the point, name this short-lived Chinese dynasty that preceded the Tang.",
+    "answer": "Sui dynasty",
+    "aliases": ["Sui"],
+    "meta": {
+      "category": "East Asia",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of canal workers, boats, and a Chinese emperor watching from a pavilion."
+    }
+  },
+  {
+    "id": "nonteam_more_074",
+    "question": "This leader founded the newspaper Indian Opinion in South Africa and developed satyagraha as a method of resistance. He later led the Salt March and Quit India movement before being assassinated in 1948. For the point, name this Indian independence leader called Mahatma.",
+    "answer": "Mohandas Gandhi",
+    "aliases": ["Mahatma Gandhi", "Mohandas Karamchand Gandhi", "Gandhi"],
+    "meta": {
+      "category": "South Asia",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a bespectacled man with a walking stick beside salt flats and a spinning wheel."
+    }
+  },
+  {
+    "id": "nonteam_more_075",
+    "question": "This revolution included the Tennis Court Oath, the storming of the Bastille, and the Reign of Terror. It abolished the old regime and eventually enabled Napoleon's rise after the Directory. For the point, name this 1789 upheaval in a European monarchy.",
+    "answer": "French Revolution",
+    "aliases": ["Revolution of 1789 in France"],
+    "meta": {
+      "category": "Europe",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a crowd at a fortress, tricolor cockades, and a broken crown."
+    }
+  },
+  {
+    "id": "nonteam_more_076",
+    "question": "This battle took place after the Texans retreated east during the Runaway Scrape. Sam Houston's forces surprised Santa Anna near the Buffalo Bayou and shouted revenge for the Alamo and Goliad. For the point, name this 1836 battle that secured Texas independence.",
+    "answer": "Battle of San Jacinto",
+    "aliases": ["San Jacinto"],
+    "meta": {
+      "category": "North America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of soldiers charging near a bayou with a lone star flag and tents."
+    }
+  },
+  {
+    "id": "nonteam_more_077",
+    "question": "This ruler convened the First Council of Nicaea after winning control of the Roman Empire. He defeated Maxentius at the Milvian Bridge and later founded a new capital named after himself. For the point, name this Roman emperor who legalized Christianity with the Edict of Milan.",
+    "answer": "Constantine the Great",
+    "aliases": ["Constantine I", "Flavius Valerius Constantinus"],
+    "meta": {
+      "category": "Europe",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a Roman emperor holding a labarum banner beside a bridge and a new city skyline."
+    }
+  },
+  {
+    "id": "nonteam_more_078",
+    "question": "This treaty was imposed after a conference where Japan proposed a racial equality clause that was rejected. It included Article 231, limited Germany's military, and created the League of Nations. For the point, name this 1919 treaty that ended World War I with Germany.",
+    "answer": "Treaty of Versailles",
+    "aliases": ["Versailles Treaty"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of diplomats signing papers in a mirrored hall with a broken helmet nearby."
+    }
+  },
+  {
+    "id": "nonteam_more_079",
+    "question": "This canal was nationalized by Gamal Abdel Nasser, triggering a 1956 crisis involving Britain, France, and Israel. It connects the Mediterranean Sea to the Red Sea and shortened shipping between Europe and Asia. For the point, name this Egyptian canal opened in 1869.",
+    "answer": "Suez Canal",
+    "aliases": ["Suez"],
+    "meta": {
+      "category": "Africa",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of ships passing through a desert canal with pyramids and signal flags."
+    }
+  },
+  {
+    "id": "nonteam_more_080",
+    "question": "This man launched the Hundred Flowers Campaign and later the disastrous Great Leap Forward. His Cultural Revolution mobilized Red Guards against perceived enemies before his death in 1976. For the point, name this founding chairman of the People's Republic of China.",
+    "answer": "Mao Zedong",
+    "aliases": ["Mao Tse-tung", "Chairman Mao", "Mao"],
+    "meta": {
+      "category": "East Asia",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a leader waving before red flags, factories, and students holding books."
+    }
+  },
+  {
+    "id": "nonteam_more_081",
+    "question": "This war began after colonial militias fought British troops at Lexington and Concord. It ended when the Treaty of Paris recognized independence after victories including Saratoga and Yorktown. For the point, name this conflict that created the United States.",
+    "answer": "American Revolutionary War",
+    "aliases": ["American Revolution", "War of American Independence", "Revolutionary War"],
+    "meta": {
+      "category": "North America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of colonial soldiers, a broken tea crate, and a liberty bell shape."
+    }
+  },
+  {
+    "id": "nonteam_more_082",
+    "question": "This kingdom's king Ezana converted to Christianity and issued coins with crosses. It controlled trade through the Red Sea port of Adulis and is remembered for tall carved stelae. For the point, name this ancient Ethiopian kingdom.",
+    "answer": "Kingdom of Aksum",
+    "aliases": ["Aksum", "Axum", "Aksumite Empire"],
+    "meta": {
+      "category": "Africa",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of tall stone stelae, Red Sea ships, and an Ethiopian highland palace."
+    }
+  },
+  {
+    "id": "nonteam_more_083",
+    "question": "This event was preceded by the Boston Massacre and the Tea Act, and it prompted Parliament to pass the Coercive Acts. Colonists disguised as Native Americans dumped East India Company cargo into a harbor in 1773. For the point, name this protest in Massachusetts against British taxation.",
+    "answer": "Boston Tea Party",
+    "aliases": ["Tea Party"],
+    "meta": {
+      "category": "North America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of tea crates splashing into a moonlit harbor beside colonial ships."
+    }
+  },
+  {
+    "id": "nonteam_more_084",
+    "question": "This operation was preceded by deceptive plans such as Operation Fortitude and involved airborne landings by the 82nd and 101st divisions. Allied troops landed at Utah, Omaha, Gold, Juno, and Sword beaches on June 6, 1944. For the point, name this Normandy invasion operation.",
+    "answer": "Operation Overlord",
+    "aliases": ["D-Day", "Normandy invasion", "Invasion of Normandy"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of landing craft approaching beaches with barrage balloons and cliffs."
+    }
+  },
+  {
+    "id": "nonteam_more_085",
+    "question": "This ruler promoted eunuch admiral Zheng He's voyages but also moved the capital to Beijing. He came to power after the Jingnan campaign against the Jianwen Emperor. For the point, name this Ming emperor who built the Forbidden City.",
+    "answer": "Yongle Emperor",
+    "aliases": ["Zhu Di", "Emperor Yongle"],
+    "meta": {
+      "category": "East Asia",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of an emperor before red palace gates and huge treasure ships."
+    }
+  },
+  {
+    "id": "nonteam_more_086",
+    "question": "This movement grew from sailors and shipyard workers around Gdansk after strikes at the Lenin Shipyard. It was led by Lech Walesa and became a legal political force that helped end communist rule in Poland. For the point, name this Polish trade union and opposition movement.",
+    "answer": "Solidarity",
+    "aliases": ["Solidarnosc", "Solidarność"],
+    "meta": {
+      "category": "Europe",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of shipyard cranes, workers raising joined hands, and red-and-white banners."
+    }
+  },
+  {
+    "id": "nonteam_more_087",
+    "question": "This conflict included the siege of Ladysmith and guerrilla commandos fighting after the fall of Pretoria. British concentration camps during it drew criticism from Emily Hobhouse. For the point, name this war between Britain and Dutch-descended settlers in South Africa.",
+    "answer": "Second Boer War",
+    "aliases": ["Boer War", "South African War", "Anglo-Boer War"],
+    "meta": {
+      "category": "Africa",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of mounted farmers with rifles on dry hills facing red-coated soldiers."
+    }
+  },
+  {
+    "id": "nonteam_more_088",
+    "question": "This leader's government promoted African socialism and villagization through ujamaa. He led Tanganyika to independence and later helped form Tanzania with Zanzibar. For the point, name this first president of Tanzania.",
+    "answer": "Julius Nyerere",
+    "aliases": ["Mwalimu Nyerere", "Julius Kambarage Nyerere"],
+    "meta": {
+      "category": "Africa",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of an East African teacher-leader beside village farms and a national flag."
+    }
+  },
+  {
+    "id": "nonteam_more_089",
+    "question": "This man came from a wealthy Coahuila family and challenged Porfirio Diaz after the fraudulent 1910 election. After becoming president, he was overthrown and killed during the Ten Tragic Days. For the point, name this Mexican reformer whose Plan of San Luis Potosi helped start the Mexican Revolution.",
+    "answer": "Francisco Madero",
+    "aliases": ["Francisco I. Madero", "Madero"],
+    "meta": {
+      "category": "Latin America",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a suited revolutionary holding a ballot beside Mexican flags and city smoke."
+    }
+  },
+  {
+    "id": "nonteam_more_090",
+    "question": "This leader founded the PLO's dominant Fatah faction and later signed the Oslo Accords with Yitzhak Rabin. He shared the Nobel Peace Prize after recognizing Israel and creating the Palestinian Authority. For the point, name this long-time Palestinian leader.",
+    "answer": "Yasser Arafat",
+    "aliases": ["Yasir Arafat", "Mohammed Abdel Rahman Abdel Raouf Arafat al-Qudwa"],
+    "meta": {
+      "category": "Middle East",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a leader in a checkered keffiyeh shaking hands before olive branches."
+    }
+  },
+  {
+    "id": "nonteam_more_091",
+    "question": "This battle occurred after a Greek force held a narrow pass while their allies prepared at sea. A traitor named Ephialtes showed the Persians a mountain path around Leonidas and his Spartans. For the point, name this 480 BCE battle at the Hot Gates.",
+    "answer": "Battle of Thermopylae",
+    "aliases": ["Thermopylae"],
+    "meta": {
+      "category": "Europe",
+      "era": "02",
+      "source": "original",
+      "image_prompt": "No-text cartoon of armored warriors blocking a narrow mountain pass with shields."
+    }
+  },
+  {
+    "id": "nonteam_more_092",
+    "question": "This empire bought warhorses through Portuguese traders and fought the Deccan Sultanates until its defeat at Talikota. Its rulers included Krishnadevaraya, whose court patronized Telugu literature and built temples at Hampi. For the point, name this powerful Hindu empire of southern India.",
+    "answer": "Vijayanagara Empire",
+    "aliases": ["Vijayanagara", "Vijayanagar Empire"],
+    "meta": {
+      "category": "South Asia",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of temple chariots, stone ruins at Hampi, and elephants in a South Indian court."
+    }
+  },
+  {
+    "id": "nonteam_more_093",
+    "question": "This event was planned by the Continental Congress and involved Washington's troops surprising Hessian forces. It followed a winter night crossing of the Delaware River in 1776. For the point, name this American Revolutionary War victory in New Jersey.",
+    "answer": "Battle of Trenton",
+    "aliases": ["Trenton"],
+    "meta": {
+      "category": "North America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of soldiers in boats crossing an icy river at night toward a snowy town."
+    }
+  },
+  {
+    "id": "nonteam_more_094",
+    "question": "This agreement was reached after secret negotiations hosted in Norway and sealed by a handshake on the White House lawn. It created mutual recognition between Israel and the PLO and set up limited Palestinian self-government. For the point, name these 1990s peace agreements.",
+    "answer": "Oslo Accords",
+    "aliases": ["Oslo I", "Oslo peace process"],
+    "meta": {
+      "category": "Middle East",
+      "era": "07",
+      "source": "original",
+      "image_prompt": "No-text cartoon of two suited leaders shaking hands over a map with olive branches."
+    }
+  },
+  {
+    "id": "nonteam_more_095",
+    "question": "This war included Operation Desert Storm after a Middle Eastern ruler invaded Kuwait. A U.S.-led coalition rapidly expelled Iraqi forces in early 1991. For the point, name this conflict against Saddam Hussein's Iraq.",
+    "answer": "Gulf War",
+    "aliases": ["Persian Gulf War", "First Gulf War", "Operation Desert Storm"],
+    "meta": {
+      "category": "Middle East",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of desert tanks, oil wells, and coalition aircraft under a hot sun."
+    }
+  },
+  {
+    "id": "nonteam_more_096",
+    "question": "This empire dominated the eastern Mediterranean from a capital that preserved Roman law in Justinian's Corpus Juris Civilis. It lost Anatolian strength after Manzikert and finally fell when Ottoman forces captured Constantinople. For the point, name this Greek-speaking continuation of the Roman Empire.",
+    "answer": "Byzantine Empire",
+    "aliases": ["Eastern Roman Empire", "Byzantium"],
+    "meta": {
+      "category": "Europe",
+      "era": "03",
+      "source": "original",
+      "image_prompt": "No-text cartoon of gold mosaics, domed churches, and city walls beside the Bosporus."
+    }
+  },
+  {
+    "id": "nonteam_more_097",
+    "question": "This treaty ended the Thirty Years' War through agreements signed at Munster and Osnabruck. It recognized Dutch independence and strengthened the principle that rulers could determine their states' religion. For the point, name this 1648 peace settlement.",
+    "answer": "Peace of Westphalia",
+    "aliases": ["Treaty of Westphalia", "Westphalian Peace"],
+    "meta": {
+      "category": "Europe",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of diplomats around a table with maps, quills, and church spires outside."
+    }
+  },
+  {
+    "id": "nonteam_more_098",
+    "question": "This leader's forces crossed the Andes with Jose de San Martin and later won at Chacabuco and Maipu. He became Supreme Director of Chile before going into exile in Peru. For the point, name this Chilean independence leader.",
+    "answer": "Bernardo O'Higgins",
+    "aliases": ["Bernardo O Higgins", "O'Higgins"],
+    "meta": {
+      "category": "Latin America",
+      "era": "05",
+      "source": "original",
+      "image_prompt": "No-text cartoon of soldiers crossing snowy Andes passes with Chilean flags."
+    }
+  },
+  {
+    "id": "nonteam_more_099",
+    "question": "This Australian campaign ended with a referendum that counted Indigenous Australians in the census and allowed federal laws for them. It followed decades of activism by groups such as the Federal Council for Aboriginal Advancement. For the point, name this 1967 Australian constitutional referendum.",
+    "answer": "1967 Australian referendum",
+    "aliases": ["Australian Aboriginal referendum", "1967 referendum in Australia"],
+    "meta": {
+      "category": "Oceania",
+      "era": "06",
+      "source": "original",
+      "image_prompt": "No-text cartoon of an Australian ballot box, raised hands, and a map outline with desert colors."
+    }
+  },
+  {
+    "id": "nonteam_more_100",
+    "question": "This explorer sailed for Spain after Portugal rejected his westward route to the Spice Islands. He died at Mactan in the Philippines, but one ship from his expedition returned under Juan Sebastian Elcano. For the point, name this navigator whose expedition first circumnavigated the globe.",
+    "answer": "Ferdinand Magellan",
+    "aliases": ["Magellan", "Fernão de Magalhães", "Fernando de Magallanes"],
+    "meta": {
+      "category": "World",
+      "era": "04",
+      "source": "original",
+      "image_prompt": "No-text cartoon of a wooden sailing ship tracing a dotted route around a globe."
+    }
+  }
+]
